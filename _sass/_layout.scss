@@ -2,7 +2,7 @@
  * ============================================== */
     .site-header {
         min-height: 350px;
-        background-color: $brand-color;
+        background-color: white;
         background-image: url('');
         background-size: cover;
         background-position: center -170px;
@@ -34,7 +34,6 @@
     }
 
     .site-header span {
-        border: 10px solid #FFF;
         padding: 0.3em 0.5em;
         margin: 10px 20px;
         display: inline-block;
