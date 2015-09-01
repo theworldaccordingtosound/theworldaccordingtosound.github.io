@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auditory Hallucinations"
-date: 2015-09-01
+date: 2015-09-03
 categories:
 ---
 
