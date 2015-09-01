@@ -49,14 +49,14 @@
     }
 
     .site-nav {
-        float: right;
+        text-align: center;
         line-height: 56px;
-        margin-right: 25px;
 
         .page-link {
             line-height: $base-line-height;
             font-weight: bold;
             letter-spacing: 0.05em;
+            margin-right: 45px;
 
             &:not(:first-child) {
                 margin-left: 20px;
