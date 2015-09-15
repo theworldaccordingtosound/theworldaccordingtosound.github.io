@@ -88,6 +88,10 @@
     .site-icon {
         width: 340px;
         display: inline-block;
+
+        @include media-query($on-palm) {
+            width: 100%;
+        }
     }
 
     .site-title {
@@ -109,11 +113,11 @@
         color: #959595;
 
         img {
-            width: 100px;
+            width: 325px;
         }
 
         div {
-            margin-top: 15px;
+            margin-top: 25px;
         }
     }
 
@@ -121,6 +125,7 @@
  * ============================================== */
     .page-content {
         padding: $spacing-unit 0;
+        padding-bottom: 0;
         text-align: justify;
     }
 
