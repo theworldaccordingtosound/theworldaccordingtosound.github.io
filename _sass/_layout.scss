@@ -1,10 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Neucha|Righteous|Monoton|Oregano);
+@import url(https://fonts.googleapis.com/css?family=Neucha|Righteous|Monoton|Oregano|Baumans);
 
 /* Site Header
  * ============================================== */
     .site-header {
         min-height: 350px;
-        background-color: white;
         background-image: url('');
         background-size: cover;
         background-position: center -170px;
@@ -48,20 +47,28 @@
 
     .site-tagline {
         text-align: center;
+        font-family: 'Baumans', cursive;
+        font-size: 20px;
+        color: black;
+        position: relative;
+        top: 43px;
+
     }
 
     .site-nav {
         text-align: center;
         line-height: 56px;
+        line-height: 15px;
+        font-size: 25px;
 
         .page-link {
             line-height: $base-line-height;
             font-weight: bold;
             letter-spacing: 0.05em;
-            margin-right: 45px;
+            margin-right: 0px;
 
             &:not(:first-child) {
-                margin-left: 15px;
+                margin-left: 100px;
             }
 
             @include media-query($on-laptop) {
@@ -79,16 +86,16 @@
     }
 
     .site-icon {
-        width: 305px;
+        width: 340px;
         display: inline-block;
     }
 
     .site-title {
         display: inline;
-        font-size: 45px;
+        font-size: 50px;
         .second-line {
             margin-left: 45px;
-            margin-top: 50px;
+            margin-top: 55px;
         }
     }
 
