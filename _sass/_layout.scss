@@ -7,6 +7,7 @@
         background-size: cover;
         background-position: center -170px;
         background-attachment: fixed;
+        margin-left: 30px;
 
         @include media-query($on-palm) {
             min-height: 250px;
@@ -14,17 +15,17 @@
         }
     }
 
-    .site-header a, a h1:hover {color: #FFF};
+    .site-header a, a h1:hover {color: black};
 
     .site-header h1 {
         display: block;
         font-size: 80px !important;
         line-height: 80px;
         letter-spacing: 3px;
-        text-align: center;
+        text-align: left;
         padding-top: 20px;
         clear: both;
-        text-transform: uppercase;
+        text-transform: none;
         font-family: 'Open Sans';
 
         @include media-query($on-palm) {
@@ -73,6 +74,19 @@
 
         @include media-query($on-palm) {
             padding-bottom: 10px;
+        }
+    }
+
+    .site-icon {
+        width: 220px;
+        display: inline-block;
+    }
+
+    .site-title {
+        display: inline;
+        font-size: 30px;
+        .second-line {
+            margin-left: 40px;
         }
     }
 
