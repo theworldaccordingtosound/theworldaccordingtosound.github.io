@@ -243,3 +243,21 @@
     margin-bottom: 40px;
     text-align: center;
 }
+
+.post.background {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+    &.contact {
+        font-size: 22px;
+
+        p {
+            text-align: center;
+        }
+
+        a {
+            color: rgb(0,63,204);
+        }
+    }
+}

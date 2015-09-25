@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_with_text
 title: Subscribe
 permalink: /subscribe/
 ---
