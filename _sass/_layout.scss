@@ -131,23 +131,25 @@
 /* Site Footer
  * ============================================== */
     .footer {
+        margin-top: 40px;
         padding-bottom: 3em;
         margin: auto;
         font-size: 18px;
         color: #959595;
 
         img {
-            width: 250px;
+            width: 150px;
         }
 
         div {
-            margin-top: 10px;
+            margin-top: 20px;
         }
     }
 
 /* Individual Posts
  * ============================================== */
     .page-content {
+        margin-bottom: 25px;
         padding: $spacing-unit 0;
         padding-bottom: 0;
         text-align: justify;
@@ -210,7 +212,7 @@
     }
 
     .post-content {
-        margin-bottom: $spacing-unit;
+        //margin-bottom: $spacing-unit;
         /*
         h2 {
             font-size: 32px;
@@ -240,7 +242,6 @@
 .more-episodes {
     color: black;
     font-size: 25px;
-    margin-bottom: 40px;
     text-align: center;
 }
 
