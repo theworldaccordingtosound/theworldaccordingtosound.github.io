@@ -4,8 +4,9 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-Sign up to receive special episodes and new sounds:
+We want to make this show with zero advertising. You can help by sharing your email address so we can run a crowdfunding campaign.
 
+In the meantime, we’ll send you a special, unreleased episode and details on all the ways to subscribe to the show.
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -21,8 +22,18 @@ Sign up to receive special episodes and new sounds:
 </form>
 </div>
 
-Get _The World According to Sound_ weekly in iTunes or the podcast app of your choice.
-Copy and paste this URL: http://feeds.feedburner.com/TheWorldAccordingToSound
+[![icon](/assets/icons/itunes.png "itunes")](itpc://feeds.feedburner.com/TheWorldAccordingToSound)
+[Click here to sign up](itpc://feeds.feedburner.com/TheWorldAccordingToSound) for the podcast on Itunes.
 
-Or <a href="itpc://feeds.feedburner.com/TheWorldAccordingToSound">click here for iTunes</a>.
+[![icon](/assets/icons/twitter.png "twitter")](https://twitter.com/Thewatsound)
+Follow us on Twitter for our latest episodes and previews of special series.
+
+[![icon](/assets/icons/facebook.png "facebook")](https://www.facebook.com/TheWorldAccordingtoSound)
+Follow us on Facebook for the same good reasons as you would on Twitter.
+
+[![icon](/assets/icons/soundcloud.png "soundcloud")](https://soundcloud.com/worldaccordingtosound)
+Prefer Soundcloud? [Here you go](https://soundcloud.com/worldaccordingtosound)!
+
+[![icon](/assets/icons/rss.png "rss")](http://feeds.soundcloud.com/users/soundcloud:users:162376586/sounds.rss)
+For those who like RSS. [Here's our feed](http://feeds.soundcloud.com/users/soundcloud:users:162376586/sounds.rss).
 
