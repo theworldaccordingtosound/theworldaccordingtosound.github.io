@@ -22,6 +22,9 @@ In the meantime, we’ll send you a special, unreleased episode and details on a
 </form>
 </div>
 
+![icon](/assets/icons/sms.png "sms")
+Coming soon! You'll be able to get our show via text message.
+
 [![icon](/assets/icons/itunes.png "itunes")](itpc://feeds.feedburner.com/TheWorldAccordingToSound)
 [Click here to sign up](itpc://feeds.feedburner.com/TheWorldAccordingToSound) for the podcast on Itunes.
 
