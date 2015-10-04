@@ -19,7 +19,7 @@ SC_IFRAME_PARAMS =
     buying: false
     liking: false
     sharing: true
-    show_artwork: false
+    show_artwork: true
     show_playcount: false
 
 SC_IFRAME_ATTR =
