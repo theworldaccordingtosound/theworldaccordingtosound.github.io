@@ -41,3 +41,13 @@ $ ->
         $('.post-list').append(
             $('<li></li>').append(iframe)
         )
+
+
+    player = SC.Widget($('iframe')[0])
+    player.bind(SC.Widget.Events.READY, ->
+        player.play()
+    )
+
+
+
+
