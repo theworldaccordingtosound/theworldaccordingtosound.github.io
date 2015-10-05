@@ -15,10 +15,9 @@
         }
     }
 
-    .site-header a, a h1:hover {color: black};
-
     .site-header h1 {
         display: block;
+        color: black;
         font-size: 131px !important;
         line-height: 10px;
         letter-spacing: 3px;
@@ -67,7 +66,7 @@
             margin-right: 0px;
 
             &:not(:first-child) {
-                margin-left: 100px;
+                margin-left: 50px;
             }
 
             @include media-query($on-laptop) {
