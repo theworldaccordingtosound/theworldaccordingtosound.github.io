@@ -239,9 +239,6 @@
     color: black;
     font-size: 25px;
     text-align: center;
-    a {
-        color: $link-color;
-    }
 }
 
 .post.background {
@@ -254,10 +251,6 @@
 
         p {
             text-align: center;
-        }
-
-        a {
-            color: $link-color;
         }
     }
 }
