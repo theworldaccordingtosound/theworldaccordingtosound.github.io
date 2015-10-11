@@ -26,9 +26,10 @@ SC_IFRAME_ATTR =
 SC_URL = "https://w.soundcloud.com/player/?"
 SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 
-$ ->
-    SC.initialize(client_id: SC_CLIENT_ID)
-    SC.get('/users/162376586/playlists/151785242')
+SC.initialize(client_id: SC_CLIENT_ID)
+
+insert_tracks = (playlist_id, element) ->
+    SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) ->
             for track in tracks
                 SC_IFRAME_PARAMS.url = SC_PARAM_URL + track.id
@@ -36,6 +37,10 @@ $ ->
                 iframe.attr(SC_IFRAME_ATTR)
                 iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
-                $('.post-list').append(
-                    $('<li></li>').append(iframe)
-                )
+                li = $('<li></li>').append(iframe)
+                $(element).append(li)
+
+$ ->
+    insert_tracks('151785242', '.latest')
+    insert_tracks('153799433', '.featured')
+

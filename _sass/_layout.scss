@@ -58,6 +58,7 @@
         line-height: 56px;
         line-height: 15px;
         font-size: 25px;
+        margin-bottom: 20px;
 
         .page-link {
             line-height: $base-line-height;
@@ -104,7 +105,7 @@
         position: absolute;
         font-size: 50px;
         line-height: 75px;
-        margin-top: 45px;
+        margin-top: 75px;
         .second-line {
             margin-left: 45px;
         }
@@ -145,26 +146,37 @@
  * ============================================== */
     .page-content {
         margin-bottom: 25px;
-        padding: $spacing-unit 0;
+        //padding: $spacing-unit 0;
         padding-bottom: 0;
         text-align: justify;
     }
 
     .page-heading {
         font-size: 20px;
-        padding-top: 2px;
+        padding-top: 0px;
     }
 
 /* Archive
  * ============================================== */
-    .post-list {
+    .home-heading {
+        font-size: 30px;
+        color: black;
+        margin-bottom: 5px;
+        margin-top: 0px;
+    }
+
+    .list {
         margin-left: 0;
         list-style: none;
 
         > li {
             display: block;
-            padding: 0.1em 1.5em;
-            margin-bottom: 25px;
+            padding: 0.2em 2.5em;
+            margin-bottom: 5px;
+
+            > iframe {
+                height: 166px;
+            }
         }
 
     }
@@ -252,6 +264,10 @@
             text-align: center;
         }
     }
+}
+
+.home-playall {
+
 }
 
 img[alt=icon] {
