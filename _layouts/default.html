@@ -8,6 +8,12 @@
 
     {% include header.html %}
 
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
     <nav class="site-nav">
       {% for page in site.pages %}
         {% if page.title %}
@@ -15,12 +21,6 @@
         {% endif %}
       {% endfor %}
     </nav>
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
 
     {% include footer.html %}
 

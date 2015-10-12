@@ -1,12 +1,7 @@
 ---
 ---
 
-TRACK_IDS = [
-    221367374 # mudpots
-    221368027 # daisybell
-    #221369246 # mimicry
-    #221367791 # bridgesongs
-]
+SC_CLIENT_ID = '75d9afd09a01b26915716ee1590f6c70'
 
 SC_IFRAME_PARAMS =
     color: '0066cc'
@@ -31,23 +26,28 @@ SC_IFRAME_ATTR =
 SC_URL = "https://w.soundcloud.com/player/?"
 SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 
+SC.initialize(client_id: SC_CLIENT_ID)
+
+insert_tracks = (playlist_id, element) ->
+    SC.get("/users/162376586/playlists/#{playlist_id}")
+        .then ({tracks}) ->
+            for track in tracks
+                SC_IFRAME_PARAMS.url = SC_PARAM_URL + track.id
+                iframe = $("<iframe></iframe>")
+                iframe.attr(SC_IFRAME_ATTR)
+                iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
+
+                li = $('<li></li>').append(iframe)
+                $(element).append(li)
+
 $ ->
-    for track_id in TRACK_IDS
-        SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
-        iframe = $("<iframe></iframe>")
-        iframe.attr(SC_IFRAME_ATTR)
-        iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
+    insert_tracks('151785242', '.latest')
+    insert_tracks('153799433', '.featured')
 
-        $('.post-list').append(
-            $('<li></li>').append(iframe)
-        )
-
-
+    console.log SC
     player = SC.Widget($('iframe')[0])
     player.bind(SC.Widget.Events.READY, ->
         player.play()
     )
-
-
 
 
