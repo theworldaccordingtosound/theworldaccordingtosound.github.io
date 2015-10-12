@@ -43,7 +43,7 @@
 
     .site-tagline {
         text-align: center;
-        font-family: $base-font-family;
+        font-family: $header-font-family;
         font-size: 20px;
         color: black;
         position: relative;
@@ -159,6 +159,7 @@
 /* Archive
  * ============================================== */
     .home-heading {
+        font-family: $header-font-family;
         font-size: 30px;
         color: black;
         margin-bottom: 5px;
