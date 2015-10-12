@@ -29,25 +29,34 @@ SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 SC.initialize(client_id: SC_CLIENT_ID)
 
 insert_tracks = (playlist_id, element) ->
+    $element = $(element)
+    return if not $element?
     SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) ->
             for track in tracks
                 SC_IFRAME_PARAMS.url = SC_PARAM_URL + track.id
-                iframe = $("<iframe></iframe>")
-                iframe.attr(SC_IFRAME_ATTR)
-                iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
+                $iframe = $("<iframe></iframe>")
+                $iframe.attr(SC_IFRAME_ATTR)
+                $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
-                li = $('<li></li>').append(iframe)
-                $(element).append(li)
+                $li = $('<li></li>').append($iframe)
+                $element.append($li)
+                bind_player($iframe)
+
+bind_player = ($iframe) ->
+    return if not $iframe[0]?
+    player = SC.Widget($iframe[0])
+    player.bind(SC.Widget.Events.READY, ->
+        player.bind(SC.Widget.Events.FINISH, ->
+            console.log 'the end'
+        )
+    )
 
 $ ->
     insert_tracks('151785242', '.latest')
     insert_tracks('153799433', '.featured')
 
-    console.log SC
-    player = SC.Widget($('iframe')[0])
-    player.bind(SC.Widget.Events.READY, ->
-        player.play()
-    )
+    # bind the play all widget if present
+    bind_player($('iframe'))
 
 
