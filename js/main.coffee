@@ -48,9 +48,24 @@ bind_player = ($iframe) ->
     player = SC.Widget($iframe[0])
     player.bind(SC.Widget.Events.READY, ->
         player.bind(SC.Widget.Events.FINISH, ->
-            console.log 'the end'
+            episode_finished()
         )
     )
+
+episode_finished = ->
+    # TODO pause the play all (or any) player before opening
+    # Check cookie to not pop every time an episode has ended
+    # Set cookie for one day or so after closing
+    # Set cookie for a long time if they sign up
+    $.featherlight(
+        $('#lightbox-content'),
+        {beforeClose: before_lightbox_close}
+    )
+
+before_lightbox_close = ->
+    console.log 'closing lightbox'
+    # to close
+    # $.featherlight.current().close()
 
 $ ->
     insert_tracks('151785242', '.latest')
