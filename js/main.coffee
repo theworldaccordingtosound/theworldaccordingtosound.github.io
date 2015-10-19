@@ -26,6 +26,8 @@ SC_IFRAME_ATTR =
 SC_URL = "https://w.soundcloud.com/player/?"
 SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 
+SUBCRIBE_LIGHTBOX_COOKIE = 'slb'
+
 SC.initialize(client_id: SC_CLIENT_ID)
 
 players = []
@@ -56,30 +58,29 @@ bind_player = ($iframe) ->
     players.push(player)
 
 episode_finished = ->
-    # TODO
-    # Check cookie to not pop every time an episode has ended
-    # Set cookie for one day or so after closing
-    # Set cookie for a long time if they sign up
-
-    for p in players
-        p.pause()
-    $.featherlight(
-        $('#lightbox-content'),
-        {beforeClose: before_lightbox_close}
-    )
+    if not Cookies.get(SUBCRIBE_LIGHTBOX_COOKIE)?
+        for p in players
+            p.pause()
+        $.featherlight(
+            $('#lightbox-content'),
+            {beforeClose: before_lightbox_close}
+        )
 
 
 before_lightbox_close = ->
-    console.log 'closing lightbox'
-    #Cookies.set('subscribe_lightbox', 'closed', { expires: 1 });
-    # to close
-    # $.featherlight.current().close()
+    if not Cookies.get(SUBCRIBE_LIGHTBOX_COOKIE)?
+        Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'closed', {expires: 7})
+    # to close: $.featherlight.current().close()
 
 $ ->
     insert_tracks('151785242', '.latest')
     insert_tracks('153799433', '.featured')
 
-    # bind the play all widget if present
+    # bind the play all widget
     bind_player($('iframe'))
+
+    $('#mc-embedded-subscribe').click ->
+        # triggers on the popup and the subscribe page
+        Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'subscribed')
 
 
