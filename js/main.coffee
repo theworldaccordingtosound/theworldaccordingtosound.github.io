@@ -28,6 +28,8 @@ SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 
 SC.initialize(client_id: SC_CLIENT_ID)
 
+players = []
+
 insert_tracks = (playlist_id, element) ->
     $element = $(element)
     return if not $element?
@@ -51,19 +53,25 @@ bind_player = ($iframe) ->
             episode_finished()
         )
     )
+    players.push(player)
 
 episode_finished = ->
-    # TODO pause the play all (or any) player before opening
+    # TODO
     # Check cookie to not pop every time an episode has ended
     # Set cookie for one day or so after closing
     # Set cookie for a long time if they sign up
+
+    for p in players
+        p.pause()
     $.featherlight(
         $('#lightbox-content'),
         {beforeClose: before_lightbox_close}
     )
 
+
 before_lightbox_close = ->
     console.log 'closing lightbox'
+    #Cookies.set('subscribe_lightbox', 'closed', { expires: 1 });
     # to close
     # $.featherlight.current().close()
 
