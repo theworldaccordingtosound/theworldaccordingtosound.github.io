@@ -33,8 +33,8 @@ Sign up for new episodes and details on different ways to get the show: as a pod
 ![icon](/assets/icons/sms.png "sms")
 Coming soon! You'll be able to get our show via text message.
 
-[![icon](/assets/icons/itunes.png "itunes")](itpc://feeds.feedburner.com/TheWorldAccordingToSound)
-[Click here to sign up](itpc://feeds.feedburner.com/TheWorldAccordingToSound) for the podcast on Itunes.
+[![icon](/assets/icons/itunes.png "itunes")](https://itunes.apple.com/us/podcast/the-world-according-to-sound/id1044121359)
+[Click here to sign up](https://itunes.apple.com/us/podcast/the-world-according-to-sound/id1044121359) for the podcast on Itunes.
 
 [![icon](/assets/icons/twitter.png "twitter")](https://twitter.com/Thewatsound)
 Follow us on Twitter for our latest episodes and previews of special series.
@@ -45,6 +45,6 @@ Follow us on Facebook for the same good reasons as you would on Twitter.
 [![icon](/assets/icons/soundcloud.png "soundcloud")](https://soundcloud.com/worldaccordingtosound)
 Prefer Soundcloud? [Here you go](https://soundcloud.com/worldaccordingtosound)!
 
-[![icon](/assets/icons/rss.png "rss")](http://feeds.soundcloud.com/users/soundcloud:users:162376586/sounds.rss)
-For those who like RSS. [Here's our feed](http://feeds.soundcloud.com/users/soundcloud:users:162376586/sounds.rss).
+[![icon](/assets/icons/rss.png "rss")](http://feeds.feedburner.com/TheWorldAccordingToSound)
+For those who like RSS. [Here's our feed](http://feeds.feedburner.com/TheWorldAccordingToSound).
 
