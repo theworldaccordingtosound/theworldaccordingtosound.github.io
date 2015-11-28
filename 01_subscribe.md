@@ -10,7 +10,7 @@ Sign up for new episodes and details on different ways to get the show: as a pod
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;}
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif}
 </style>
 <div id="mc_embed_signup">
 <form action="//Theworldaccordingtosound.us11.list-manage.com/subscribe/post?u=7beafa4f882ecbf607d6c3b6b&amp;id=6ca9823e18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
