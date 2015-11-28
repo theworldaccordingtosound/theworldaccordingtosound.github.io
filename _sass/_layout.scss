@@ -289,3 +289,27 @@ img[alt=icon] {
         display: none;
     }
 }
+
+.addthis_vertical_follow_toolbox {
+    position: absolute;
+    top: 500px;
+
+    @include media-query($on-palm) {
+        left: 50%;
+        top: auto;
+    }
+}
+
+.subscribe_section {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.subscribe_itunes {
+    text-align: center;
+    img {
+        height: 80px;
+    }
+}
