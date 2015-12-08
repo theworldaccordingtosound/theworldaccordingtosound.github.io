@@ -13,7 +13,7 @@ SC_IFRAME_PARAMS =
     download: false
     buying: false
     liking: false
-    sharing: true
+    sharing: false
     show_artwork: true
     show_playcount: false
 
