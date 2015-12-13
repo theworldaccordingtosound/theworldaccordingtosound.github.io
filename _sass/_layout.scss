@@ -177,7 +177,7 @@
         > li {
             display: block;
             padding: 0.2em 2.5em;
-            margin-bottom: 5px;
+            margin-bottom: 15px;
 
             > iframe {
                 height: 166px;
@@ -326,4 +326,10 @@ img[alt=icon] {
             height: 80px;
         }
     }
+}
+
+.share_button {
+    text-align: right;
+    font-size: 14px;
+    line-height: 14px;
 }

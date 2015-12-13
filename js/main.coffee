@@ -44,6 +44,7 @@ insert_tracks = (playlist_id, element) ->
                 $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
                 $li = $('<li></li>').append($iframe)
+                add_share_button($li)
                 $element.append($li)
                 bind_player($iframe)
 
@@ -66,18 +67,24 @@ episode_finished = ->
             {beforeClose: before_lightbox_close}
         )
 
-
 before_lightbox_close = ->
     if not Cookies.get(SUBCRIBE_LIGHTBOX_COOKIE)?
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'closed', {expires: 7})
     # to close: $.featherlight.current().close()
+
+add_share_button = ($element) ->
+    $button = $("<div></div>")
+    $button.text('share')
+    $button.addClass('share_button')
+    $element.append($button)
+
 
 $ ->
     insert_tracks('151785242', '.latest')
     insert_tracks('153799433', '.featured')
 
     # bind the play all widget
-    bind_player($('iframe'))
+    bind_player($('.home-playall'))
 
     $('#mc-embedded-subscribe').click ->
         # triggers on the popup and the subscribe page
