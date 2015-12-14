@@ -32,11 +32,11 @@ SC.initialize(client_id: SC_CLIENT_ID)
 
 players = []
 
-insert_tracks = (playlist_id, element) ->
+insert_tracks = (playlist_id, element, shared_track) =>
     $element = $(element)
     return if not $element?
     SC.get("/users/162376586/playlists/#{playlist_id}")
-        .then ({tracks}) ->
+        .then ({tracks}) =>
             for track in tracks
                 SC_IFRAME_PARAMS.url = SC_PARAM_URL + track.id
                 $iframe = $("<iframe></iframe>")
@@ -46,15 +46,22 @@ insert_tracks = (playlist_id, element) ->
                 $li = $('<li></li>').append($iframe)
                 add_share_button($li)
                 $element.append($li)
-                bind_player($iframe)
 
-bind_player = ($iframe) ->
+                console.log track.id, shared_track
+                bind_player($iframe, (shared_track == "#{track.id}"))
+
+bind_player = ($iframe, start_playing) ->
+    console.log start_playing
     return if not $iframe[0]?
     player = SC.Widget($iframe[0])
     player.bind(SC.Widget.Events.READY, ->
         player.bind(SC.Widget.Events.FINISH, ->
             episode_finished()
         )
+
+        if start_playing
+            console.log 'start'
+            player.play()
     )
     players.push(player)
 
@@ -74,17 +81,26 @@ before_lightbox_close = ->
 
 add_share_button = ($element) ->
     $button = $("<div></div>")
+
+    $button.on 'click', =>
+        console.log 'hi'
+
     $button.text('share')
     $button.addClass('share_button')
     $element.append($button)
 
 
+get_shared_track_id = ->
+    window.location.hash?.replace('#','').split('=')?[1]
+
 $ ->
-    insert_tracks('151785242', '.latest')
-    insert_tracks('153799433', '.featured')
+    shared_track = get_shared_track_id()
+    console.log shared_track
+    insert_tracks('151785242', '.latest', shared_track)
+    insert_tracks('153799433', '.featured', shared_track)
 
     # bind the play all widget
-    bind_player($('.home-playall'))
+    bind_player($('.home-playall'), false)
 
     $('#mc-embedded-subscribe').click ->
         # triggers on the popup and the subscribe page
