@@ -48,7 +48,14 @@ insert_tracks = (playlist_id, element, shared_track) =>
                 $element.append($li)
 
                 console.log track.id, shared_track
-                bind_player($iframe, (shared_track == "#{track.id}"))
+                start_play = false
+                if shared_track == "#{track.id}"
+                    start_play = true
+                    $('html, body').animate({
+                        scrollTop: $iframe.offset().top
+                    }, 1000)
+
+                bind_player($iframe, start_play)
 
 bind_player = ($iframe, start_playing) ->
     console.log start_playing
