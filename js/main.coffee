@@ -90,7 +90,8 @@ add_share_button = ($element) ->
     $button = $("<div></div>")
 
     $button.on 'click', =>
-        console.log 'hi'
+        #$('.share_form').css('top')
+        $('.share_form').show()
 
     $button.text('share')
     $button.addClass('share_button')
@@ -112,5 +113,8 @@ $ ->
     $('#mc-embedded-subscribe').click ->
         # triggers on the popup and the subscribe page
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'subscribed')
+
+    $('.share_form .close').on 'click', =>
+        $('.share_form').hide()
 
 

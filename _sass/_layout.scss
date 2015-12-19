@@ -332,4 +332,28 @@ img[alt=icon] {
     text-align: right;
     font-size: 14px;
     line-height: 14px;
+    cursor: pointer;
+    &:hover {text-decoration: underline;}
+}
+
+.share_form {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px #c5c5c5 solid;
+    background: #f2f2f2;
+    padding: 5px;
+
+    input {
+        font-size: 12px;
+        width: 250px;
+    }
+
+    .close {
+        text-align: right;
+        font-size: 12px;
+        cursor: pointer;
+        &:hover {text-decoration: underline;}
+    }
 }
