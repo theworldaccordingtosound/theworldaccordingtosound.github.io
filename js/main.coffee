@@ -48,18 +48,9 @@ insert_tracks = (playlist_id, element, shared_track) =>
                 add_share_button($li, track.id)
                 $element.append($li)
 
-                console.log track.id, shared_track
-                start_play = false
-                if shared_track == "#{track.id}"
-                    start_play = true
-                    $('html, body').animate({
-                        scrollTop: $iframe.offset().top
-                    }, 1000)
+                bind_player($iframe, (shared_track == "#{track.id}"))
 
-                bind_player($iframe, start_play)
-
-bind_player = ($iframe, start_playing) ->
-    console.log start_playing
+bind_player = ($iframe, start_play) ->
     return if not $iframe[0]?
     player = SC.Widget($iframe[0])
     player.bind(SC.Widget.Events.READY, ->
@@ -67,8 +58,10 @@ bind_player = ($iframe, start_playing) ->
             episode_finished()
         )
 
-        if start_playing
-            console.log 'start'
+        if start_play
+            $('html, body').animate({
+                scrollTop: $iframe.offset().top - 20
+            }, 1000)
             player.play()
     )
     players.push(player)
@@ -96,20 +89,29 @@ add_share_button = ($element, track_id) ->
             $('.share_form').hide()
         else
             share_link_track = track_id
-            #$('.share_form').css('top')
-            $('.share_form').show()
+            share_link = "#{window.location.origin}#t=#{track_id}"
+
+            {top, left} = $button.offset()
+            top = "#{(top + 20)}px"
+            right = "#{left}px"
+
+            $('.share_form')
+                .css({top, right})
+                .show()
+                .find('input')
+                .val(share_link)
+                .focus()
+                .select()
 
     $button.text('share')
     $button.addClass('share_button')
     $element.append($button)
-
 
 get_shared_track_id = ->
     window.location.hash?.replace('#','').split('=')?[1]
 
 $ ->
     shared_track = get_shared_track_id()
-    console.log shared_track
     insert_tracks('151785242', '.latest', shared_track)
     insert_tracks('153799433', '.featured', shared_track)
 
@@ -123,5 +125,4 @@ $ ->
     $('.share_form .close').on 'click', =>
         share_link_track = ''
         $('.share_form').hide()
-
 
