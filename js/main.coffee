@@ -31,6 +31,7 @@ SUBCRIBE_LIGHTBOX_COOKIE = 'slb'
 SC.initialize(client_id: SC_CLIENT_ID)
 
 players = []
+share_link_track = ''
 
 insert_tracks = (playlist_id, element, shared_track) =>
     $element = $(element)
@@ -44,7 +45,7 @@ insert_tracks = (playlist_id, element, shared_track) =>
                 $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
                 $li = $('<li></li>').append($iframe)
-                add_share_button($li)
+                add_share_button($li, track.id)
                 $element.append($li)
 
                 console.log track.id, shared_track
@@ -86,12 +87,17 @@ before_lightbox_close = ->
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'closed', {expires: 7})
     # to close: $.featherlight.current().close()
 
-add_share_button = ($element) ->
+add_share_button = ($element, track_id) ->
     $button = $("<div></div>")
 
     $button.on 'click', =>
-        #$('.share_form').css('top')
-        $('.share_form').show()
+        if share_link_track == track_id
+            share_link_track = ''
+            $('.share_form').hide()
+        else
+            share_link_track = track_id
+            #$('.share_form').css('top')
+            $('.share_form').show()
 
     $button.text('share')
     $button.addClass('share_button')
@@ -115,6 +121,7 @@ $ ->
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'subscribed')
 
     $('.share_form .close').on 'click', =>
+        share_link_track = ''
         $('.share_form').hide()
 
 
