@@ -92,7 +92,7 @@ add_share_button = ($element, track_id) ->
             share_link = "#{window.location.origin}#t=#{track_id}"
 
             {top, left} = $button.offset()
-            top = "#{(top + 20)}px"
+            top = "#{(top - 40)}px"
             right = "#{left}px"
 
             $('.share_form')
