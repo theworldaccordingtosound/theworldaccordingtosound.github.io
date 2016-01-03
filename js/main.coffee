@@ -104,6 +104,7 @@ add_share_button = ($element, track_id) ->
                 .find('input')
                 .val(share_link)
                 .focus()
+                .prop('readonly', true)
                 .select()
 
     $button.text('share')
