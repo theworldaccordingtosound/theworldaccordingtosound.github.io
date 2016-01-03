@@ -62,7 +62,10 @@ bind_player = ($iframe, start_play) ->
             $('html, body').animate({
                 scrollTop: $iframe.offset().top - 20
             }, 1000)
-            player.play()
+
+            if AUTOPLAY
+                # iOS doesn't support audio autoplay
+                player.play()
     )
     players.push(player)
 
