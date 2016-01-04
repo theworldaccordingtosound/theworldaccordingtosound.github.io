@@ -346,16 +346,18 @@ img[alt=icon] {
 
     input {
         width: 250px;
+        margin-bottom: 5px;
     }
 
-    .twitter, .close {
+    .facebook, .twitter, .close {
         cursor: pointer;
         color: #454545;
         &:hover {text-decoration: underline;}
     }
 
-    .twitter {
+    .facebook {
         margin-left: 1px;
+        margin-right: 5px;
     }
 
     .close {

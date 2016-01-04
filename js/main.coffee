@@ -107,6 +107,9 @@ add_share_button = ($element, track_id) ->
                 .prop('readonly', true)
                 .select()
 
+            $('.share_form .facebook')
+                .prop('href', "https://www.facebook.com/sharer/sharer.php?u=#{full_share_link}")
+
             $('.share_form .twitter')
                 .prop('href', "https://twitter.com/share?url=#{full_share_link}")
 
