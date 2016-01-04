@@ -95,7 +95,7 @@ add_share_button = ($element, track_id) ->
             full_share_link = window.location.href.split(/[?#]/)[0] + $.query.set("t", track_id)
 
             {top, left} = $button.offset()
-            top = "#{(top - 40)}px"
+            top = "#{(top - 30)}px"
             right = "#{left}px"
 
             $('.share_form')
@@ -106,6 +106,9 @@ add_share_button = ($element, track_id) ->
                 .focus()
                 .prop('readonly', true)
                 .select()
+
+            $('.share_form .twitter')
+                .prop('href', "https://twitter.com/share?url=#{full_share_link}")
 
     $button.text('share')
     $button.addClass('share_button')

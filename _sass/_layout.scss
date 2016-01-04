@@ -342,16 +342,23 @@ img[alt=icon] {
     border: 1px #c5c5c5 solid;
     background: #f2f2f2;
     padding: 5px;
+    font-size: 12px;
 
     input {
-        font-size: 12px;
         width: 250px;
     }
 
-    .close {
-        text-align: right;
-        font-size: 12px;
+    .twitter, .close {
         cursor: pointer;
+        color: #454545;
         &:hover {text-decoration: underline;}
+    }
+
+    .twitter {
+        margin-left: 1px;
+    }
+
+    .close {
+        float: right;
     }
 }
