@@ -48,7 +48,7 @@ insert_tracks = (playlist_id, element, shared_track) =>
                 add_share_button($li, track.id)
                 $element.append($li)
 
-                bind_player($iframe, (shared_track == "#{track.id}"))
+                bind_player($iframe, (shared_track == track.id))
 
 bind_player = ($iframe, start_play) ->
     return if not $iframe[0]?
@@ -92,7 +92,7 @@ add_share_button = ($element, track_id) ->
             $('.share_form').hide()
         else
             share_link_track = track_id
-            share_link = "#{window.location.origin}#t=#{track_id}"
+            full_share_link = window.location.href.split(/[?#]/)[0] + $.query.set("t", track_id)
 
             {top, left} = $button.offset()
             top = "#{(top - 40)}px"
@@ -102,7 +102,7 @@ add_share_button = ($element, track_id) ->
                 .css({top, right})
                 .show()
                 .find('input')
-                .val(share_link)
+                .val(full_share_link)
                 .focus()
                 .prop('readonly', true)
                 .select()
@@ -111,11 +111,8 @@ add_share_button = ($element, track_id) ->
     $button.addClass('share_button')
     $element.append($button)
 
-get_shared_track_id = ->
-    window.location.hash?.replace('#','').split('=')?[1]
-
 $ ->
-    shared_track = get_shared_track_id()
+    shared_track = $.query.get('t')
     insert_tracks('151785242', '.latest', shared_track)
     insert_tracks('153799433', '.featured', shared_track)
 
