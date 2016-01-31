@@ -150,9 +150,14 @@
  * ============================================== */
     .page-content {
         margin-bottom: 25px;
+        margin-top: 25px;
         //padding: $spacing-unit 0;
         padding-bottom: 0;
         text-align: justify;
+
+        a {
+            color: #0066cc;
+        }
     }
 
     .page-heading {
