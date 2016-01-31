@@ -16,4 +16,6 @@ We hope you enjoy The World According to Sound and that it gets you to think a l
 
 Chris Hoff & Sam Harnett
 
-P.S. To listen, either subscribe on [iTunes](https://itunes.apple.com/us/podcast/the-world-according-to-sound/id1044121359), or sign up to have the episodes emailed!
+P.S. To listen, either subscribe on [iTunes](https://itunes.apple.com/us/podcast/the-world-according-to-sound/id1044121359), or <a href="#" data-featherlight='#lightbox-content'>sign up</a> to have the episodes emailed!
+
+
