@@ -133,3 +133,8 @@ $ ->
         share_link_track = ''
         $('.share_form').hide()
 
+    # open every link to an external site in a different tab
+    $(document.links).filter( ->
+        this.hostname != window.location.hostname and this.origin != 'mailto://'
+    ).attr('target', '_blank')
+
