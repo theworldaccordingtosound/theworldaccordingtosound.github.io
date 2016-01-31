@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-The World According to Sound
-
 We’re a 90-second radio show that tells stories with sounds instead of, well, stories.
 
 Each episode features a new sound and the story behind it. Sometimes the sounds come from things you’ve seen but never listened to: [bridges](https://soundcloud.com/worldaccordingtosound/4-bridge-songs), [muddy holes](https://soundcloud.com/worldaccordingtosound/1-mud-pots) in the ground, or [wifi networks](https://soundcloud.com/worldaccordingtosound/24-wifi). We’ve found sounds that [express data](https://soundcloud.com/worldaccordingtosound/20-wikipedia), tell a [piece of history](https://soundcloud.com/worldaccordingtosound/22hourcharm), and let you get inside [someone else’s head](https://soundcloud.com/worldaccordingtosound/5-auditory-hallucinations)–maybe someone’s head you don’t really want to be in.  Sometimes the sounds have surprising sources: [cult leaders](https://soundcloud.com/worldaccordingtosound/18-look-at-your-game-girl), [silent musicians](https://soundcloud.com/worldaccordingtosound/13-a-silent-song), or a [classics professor](https://soundcloud.com/worldaccordingtosound/16-the-iliad-1). Every episode features roughly thirty seconds of talking and sixty seconds of sound, and it’s best to listen with headphones, unless you have a sweet sound system.
