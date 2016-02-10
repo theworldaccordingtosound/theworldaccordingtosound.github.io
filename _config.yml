@@ -3,7 +3,7 @@ title: The World According to Sound
 email: ""
 description: ""
 baseurl: ""
-url: "http://theworldaccordingtosound.github.io"
+url: "http://www.theworldaccordingtosound.org"
 # Build settings
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
