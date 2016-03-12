@@ -1,4 +1,4 @@
-Code for the site: http://theworldaccordingtosound.github.io/
+Code for the site: http://www.theworldaccordingtosound.org
 
 # setup
 ```
