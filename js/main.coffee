@@ -39,16 +39,19 @@ insert_tracks = (playlist_id, element, shared_track) =>
     SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) =>
             for track in tracks
-                SC_IFRAME_PARAMS.url = SC_PARAM_URL + track.id
-                $iframe = $("<iframe></iframe>")
-                $iframe.attr(SC_IFRAME_ATTR)
-                $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
+                insert_single_track($element, track.id, shared_track)
 
-                $li = $('<li></li>').append($iframe)
-                add_share_button($li, track.id)
-                $element.append($li)
+insert_single_track = ($element, track_id, shared_track) =>
+    SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
+    $iframe = $("<iframe></iframe>")
+    $iframe.attr(SC_IFRAME_ATTR)
+    $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
-                bind_player($iframe, (shared_track == track.id))
+    $li = $('<li></li>').append($iframe)
+    add_share_button($li, track_id)
+    $element.append($li)
+
+    bind_player($iframe, (shared_track == track_id))
 
 bind_player = ($iframe, start_play) ->
     return if not $iframe[0]?
@@ -138,3 +141,8 @@ $ ->
         this.hostname != window.location.hostname and this.origin != 'mailto://'
     ).attr('target', '_blank')
 
+    # if we're on a post page, insert the track
+    $post_player = $('.post-player')
+    if $post_player?
+        post_track_id = $post_player.attr('track')
+        insert_single_track($post_player, post_track_id, null)
