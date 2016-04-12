@@ -86,10 +86,11 @@
 /* Block Quotes
  * ============================================== */
     blockquote {
-        color: #BBB;
+        color: black;
         border-left: 4px solid $brand-color;
         padding-left: $spacing-unit / 2;
-        font-size: 17px;
+        font-size: 34px;
+        margin: 0 35px 0 35px;
         letter-spacing: -1px;
         font-style: italic;
 
