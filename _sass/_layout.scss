@@ -54,10 +54,6 @@
         color: black;
         position: relative;
 
-        &:hover {
-            color: #0066cc;
-        }
-
         @include media-query($on-palm) {
             font-size: 18px;
         }
