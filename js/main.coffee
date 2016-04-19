@@ -41,14 +41,14 @@ insert_tracks = (playlist_id, element, shared_track) =>
             for track in tracks
                 insert_single_track($element, track.id, shared_track)
 
-insert_single_track = ($element, track_id, shared_track) =>
+insert_single_track = ($element, track_id, shared_track, include_share_button=true) =>
     SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
     $iframe = $("<iframe></iframe>")
     $iframe.attr(SC_IFRAME_ATTR)
     $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
     $li = $('<li></li>').append($iframe)
-    add_share_button($li, track_id)
+    add_share_button($li, track_id) if include_share_button
     $element.append($li)
 
     bind_player($iframe, (shared_track == track_id))
@@ -145,4 +145,9 @@ $ ->
     $post_player = $('.post-player')
     if $post_player?
         post_track_id = $post_player.attr('track')
-        insert_single_track($post_player, post_track_id, null)
+        insert_single_track(
+            $post_player,
+            post_track_id,
+            null,
+            include_share_button=false
+        )
