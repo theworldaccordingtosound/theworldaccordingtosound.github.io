@@ -12,21 +12,24 @@ playlist = client.get('/playlists/139584151')
 
 for track in playlist.tracks:
     title = track['title'].encode("utf-8")
-    spl = title.split("\xe2")
+    spl = title.split("\xe2\x80\x93")
+
     if not len(spl) == 2:
       spl = title.split('-')
+    spl[0] = spl[0].strip()
 
     date = track['last_modified'].encode("utf-8").split(" ")[0].replace("/", "-")
 
     output = ["---",
               "layout: post",
-              "title: 'Episode {}'".format(track['title']),
+              "title: 'Episode {}'".format(":".join(spl)),
               "date: {}".format(date),
               "published: true",
               "track_id: {}".format(track['id']),
               "---",
               "<div class='list post-player' track='{{page.track_id}}'></div>",
              ]
+
     postnum = spl[0].split(',')[0].strip()
     postname = spl[1].split(" ")[-1]
     filename = "../_posts/" + date + "_" + postnum + "_" + postname + ".md"
