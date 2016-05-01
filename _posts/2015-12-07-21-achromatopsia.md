@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 21
 title: 'Episode 21: Achromatopsia'
-date: 2016-03-29
 published: true
 track_id: 232672828
 ---

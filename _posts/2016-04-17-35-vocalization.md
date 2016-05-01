@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 35
 title: 'Episode 35: Involuntary Vocalization'
-date: 2016-04-12
 published: true
 track_id: 251917367
 ---

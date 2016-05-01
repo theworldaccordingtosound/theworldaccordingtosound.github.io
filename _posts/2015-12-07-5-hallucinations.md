@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 5
 title: 'Episode 5: Auditory Hallucinations'
-date: 2015-12-07
 published: true
 track_id: 221366834
 ---

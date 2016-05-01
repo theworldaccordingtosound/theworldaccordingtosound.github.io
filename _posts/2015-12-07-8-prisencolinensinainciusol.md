@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 8
 title: 'Episode 8: Prisencolinensinainciusol'
-date: 2015-12-07
 published: true
 track_id: 227722542
 ---

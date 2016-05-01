@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 17
 title: 'Episode 17: Glossolalia'
-date: 2015-12-07
 published: true
 track_id: 230855986
 ---

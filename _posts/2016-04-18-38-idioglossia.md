@@ -1,7 +1,7 @@
 ---
 layout: post
+episode: 38
 title: 'Episode 38: Idioglossia'
-date: 2016-04-14
 published: true
 track_id: 257338527
 ---
