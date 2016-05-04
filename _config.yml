@@ -7,3 +7,4 @@ url: "http://www.theworldaccordingtosound.org"
 # Build settings
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
+gems: [jekyll-coffeescript]

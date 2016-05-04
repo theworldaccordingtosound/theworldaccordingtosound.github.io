@@ -129,6 +129,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-coffeescript
 
 BUNDLED WITH
-   1.11.2
+   1.12.1
