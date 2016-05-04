@@ -37,16 +37,20 @@ insert_tracks = (playlist_id, element) =>
     return if not $element?
     SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) =>
-            for {id} in tracks
-                insert_single_track($element, id)
+            for {id, description} in tracks
+                post_link = description.split('Read more: ')[1]
+                insert_single_track($element, id, post_link)
 
-insert_single_track = ($element, track_id) =>
+insert_single_track = ($element, track_id, post_link) =>
     SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
     $iframe = $("<iframe></iframe>")
     $iframe.attr(SC_IFRAME_ATTR)
     $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
     $li = $('<li></li>').append($iframe)
+    if post_link
+        $li.append("<a class='more_link' href='#{post_link}'>Read more</a>")
+
     $element.append($li)
 
     bind_player($iframe)
