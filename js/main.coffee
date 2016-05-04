@@ -31,44 +31,33 @@ SUBCRIBE_LIGHTBOX_COOKIE = 'slb'
 SC.initialize(client_id: SC_CLIENT_ID)
 
 players = []
-share_link_track = ''
 
-insert_tracks = (playlist_id, element, shared_track) =>
+insert_tracks = (playlist_id, element) =>
     $element = $(element)
     return if not $element?
     SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) =>
-            for track in tracks
-                insert_single_track($element, track.id, shared_track)
+            for {id} in tracks
+                insert_single_track($element, id)
 
-insert_single_track = ($element, track_id, shared_track, include_share_button=true) =>
+insert_single_track = ($element, track_id) =>
     SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
     $iframe = $("<iframe></iframe>")
     $iframe.attr(SC_IFRAME_ATTR)
     $iframe.attr('src', SC_URL + $.param(SC_IFRAME_PARAMS))
 
     $li = $('<li></li>').append($iframe)
-    add_share_button($li, track_id) if include_share_button
     $element.append($li)
 
-    bind_player($iframe, (shared_track == track_id))
+    bind_player($iframe)
 
-bind_player = ($iframe, start_play) ->
+bind_player = ($iframe) ->
     return if not $iframe[0]?
     player = SC.Widget($iframe[0])
     player.bind(SC.Widget.Events.READY, ->
         player.bind(SC.Widget.Events.FINISH, ->
             episode_finished()
         )
-
-        if start_play
-            $('html, body').animate({
-                scrollTop: $iframe.offset().top - 20
-            }, 1000)
-
-            if AUTOPLAY
-                # iOS doesn't support audio autoplay
-                player.play()
     )
     players.push(player)
 
@@ -86,44 +75,9 @@ before_lightbox_close = ->
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'closed', {expires: 7})
     # to close: $.featherlight.current().close()
 
-add_share_button = ($element, track_id) ->
-    $button = $("<div></div>")
-
-    $button.on 'click', =>
-        if share_link_track == track_id
-            share_link_track = ''
-            $('.share_form').hide()
-        else
-            share_link_track = track_id
-            full_share_link = window.location.href.split(/[?#]/)[0] + $.query.set("t", track_id)
-
-            {top, left} = $button.offset()
-            top = "#{(top - 30)}px"
-            right = "#{left}px"
-
-            $('.share_form')
-                .css({top, right})
-                .show()
-                .find('input')
-                .val(full_share_link)
-                .focus()
-                .prop('readonly', true)
-                .select()
-
-            $('.share_form .facebook')
-                .prop('href', "https://www.facebook.com/sharer/sharer.php?u=#{full_share_link}")
-
-            $('.share_form .twitter')
-                .prop('href', "https://twitter.com/share?url=#{full_share_link}")
-
-    $button.text('share')
-    $button.addClass('share_button')
-    $element.append($button)
-
 $ ->
-    shared_track = $.query.get('t')
-    insert_tracks('151785242', '.latest', shared_track)
-    insert_tracks('153799433', '.featured', shared_track)
+    insert_tracks('151785242', '.latest')
+    insert_tracks('153799433', '.featured')
 
     # bind the play all widget
     bind_player($('.home-playall'), false)
@@ -131,10 +85,6 @@ $ ->
     $('#mc-embedded-subscribe').click ->
         # triggers on the popup and the subscribe page
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'subscribed')
-
-    $('.share_form .close').on 'click', =>
-        share_link_track = ''
-        $('.share_form').hide()
 
     # open every link to an external site in a different tab
     $(document.links).filter( ->
@@ -145,9 +95,4 @@ $ ->
     $post_player = $('.post-player')
     if $post_player?
         post_track_id = $post_player.attr('track')
-        insert_single_track(
-            $post_player,
-            post_track_id,
-            null,
-            include_share_button=false
-        )
+        insert_single_track($post_player, post_track_id)

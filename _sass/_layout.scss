@@ -338,43 +338,6 @@ img[alt=icon] {
     }
 }
 
-.share_button {
-    text-align: right;
-    font-size: 14px;
-    line-height: 14px;
-    cursor: pointer;
-    &:hover {text-decoration: underline;}
-}
-
-.share_form {
-    display: none;
-    position: absolute;
-    border: 1px #c5c5c5 solid;
-    background: #f2f2f2;
-    padding: 5px;
-    font-size: 12px;
-
-    input {
-        width: 250px;
-        margin-bottom: 5px;
-    }
-
-    .facebook, .twitter, .close {
-        cursor: pointer;
-        color: #454545;
-        &:hover {text-decoration: underline;}
-    }
-
-    .facebook {
-        margin-left: 1px;
-        margin-right: 5px;
-    }
-
-    .close {
-        float: right;
-    }
-}
-
 .episode-list {
     margin-bottom: 50px;
 
