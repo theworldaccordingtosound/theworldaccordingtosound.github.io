@@ -5,7 +5,7 @@ title: 'Episode 35: Involuntary Vocalization'
 published: true
 track_id: 251917367
 ---
-<div style="background: url('https://upload.wikimedia.org/wikipedia/commons/2/2e/Keith_Jarrett-commons.jpg') no-repeat; background-size: cover; width:100%; height:0px; margin-top:0px; margin-bottom:25px; padding-top:320px; margin-left:auto; margin-right:auto;"></div>
+<div style="background: url('https://upload.wikimedia.org/wikipedia/commons/2/2e/Keith_Jarrett-commons.jpg') no-repeat; background-size: cover; width:100%; height:0px; margin-top:0px; margin-bottom:15px; padding-top:250px; margin-left:auto; margin-right:auto;"> </div><a class='attribution' href="https://commons.wikimedia.org/wiki/File:Keith_Jarrett-commons.jpg">© Olivier Bruchez (Flickr)</a>
 
 About fifteen seconds into [this recording of El Dorado] (https://www.youtube.com/watch?v=jgIFZyd5vXk), Erroll Garner starts making the noise. It’s a kind of low, guttural humming, and it runs through the entire piece. Sometimes it seems like the melody line or harmony, other times it feels totally disconnected, tangential to the music. Garner drifts from scatting, humming, and half-singing into groans and exclamations. At a certain point it sounds like somebody muttering—maybe a drunk at a bar. We found out that these sounds he’s making have a name: involuntary vocalizations.
 
