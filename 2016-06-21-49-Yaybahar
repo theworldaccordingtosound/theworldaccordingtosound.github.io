@@ -1,8 +1,0 @@
----
-layout: post
-episode: 49
-title: 'Episode 49: Yaybahar'
-published: true
-track_id: 267722381
----
-<div class='list post-player' track='{{page.track_id}}'></div>
