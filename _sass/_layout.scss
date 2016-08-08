@@ -59,6 +59,28 @@
         }
     }
 
+    .site-banner {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        margin-top: 20px;
+
+        span {
+            white-space: nowrap;
+        }
+
+        a {
+            color: white;
+            background-color: rgb(253, 192, 109);
+            padding: 5px 10px 5px 10px;
+            border-radius: 3px;
+            margin-left: 10px;
+            line-height: 40px;
+            white-space: nowrap;
+        }
+    }
+
     .site-nav {
         font-family: $header-font-family;
         text-align: center;
