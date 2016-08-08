@@ -30,6 +30,26 @@
 
     <div class="addthis_vertical_follow_toolbox"></div>
 
+    <!-- Defer laoding CSS -->
+    <script>
+      var loadCSS = function(href) {
+        var stylesheet = document.createElement('link');
+        stylesheet.href = href;
+        stylesheet.rel = 'stylesheet';
+        stylesheet.type = 'text/css';
+        document.getElementsByTagName('head')[0].appendChild(stylesheet);
+      };
+
+      var cb = function() {
+        loadCSS('//cdn.rawgit.com/noelboss/featherlight/1.3.4/release/featherlight.min.css');
+      };
+
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||webkitRequestAnimationFrame || msRequestAnimationFrame;
+
+      if (raf) raf(cb);
+      else window.addEventListener('load', cb);
+    </script>
+
     <script defer="defer" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script defer="defer" src="//cdn.rawgit.com/noelboss/featherlight/1.3.4/release/featherlight.min.js"></script>
     <script defer="defer" src="//connect.soundcloud.com/sdk/sdk-3.0.0.js"></script>
