@@ -100,3 +100,8 @@ $ ->
     if $post_player?
         post_track_id = $post_player.attr('track')
         insert_single_track($post_player, post_track_id)
+
+    # make whole banner clickabble
+    $('.site-banner').click( ->
+        window.open('http://www.thelab.org/projects/2016/7/28/the-world-according-to-sound', '_blank')
+    )
