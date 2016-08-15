@@ -80,6 +80,15 @@ before_lightbox_close = ->
     # to close: $.featherlight.current().close()
 
 $ ->
+    # wait for the google fonts to load then render the title
+    # we want to avoid FOUT
+    font = new FontFaceObserver('Monoton')
+    font.load().then (->
+        $('.site-title').removeClass('hidden')
+    ), ->
+        # failed to load the font in 3secs, show the title anyway
+        $('.site-title').removeClass('hidden')
+
     insert_tracks('151785242', '.latest')
     insert_tracks('153799433', '.featured')
 
