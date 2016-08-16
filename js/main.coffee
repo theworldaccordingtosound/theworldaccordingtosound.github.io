@@ -28,13 +28,10 @@ SC_PARAM_URL = "https://api.soundcloud.com/tracks/"
 
 SUBCRIBE_LIGHTBOX_COOKIE = 'slb'
 
-SC.initialize(client_id: SC_CLIENT_ID)
-
 players = []
 
-insert_tracks = (playlist_id, element) =>
-    $element = $(element)
-    return if not $element?
+insert_tracks = (playlist_id, $element) =>
+    return unless $element?
     SC.get("/users/162376586/playlists/#{playlist_id}")
         .then ({tracks}) =>
             for {id, description} in tracks
@@ -42,6 +39,7 @@ insert_tracks = (playlist_id, element) =>
                 insert_single_track($element, id, post_link)
 
 insert_single_track = ($element, track_id, post_link) =>
+    return unless $element? and track_id?
     SC_IFRAME_PARAMS.url = SC_PARAM_URL + track_id
     $iframe = $("<iframe></iframe>")
     $iframe.attr(SC_IFRAME_ATTR)
@@ -56,7 +54,7 @@ insert_single_track = ($element, track_id, post_link) =>
     bind_player($iframe)
 
 bind_player = ($iframe) ->
-    return if not $iframe[0]?
+    return unless $iframe[0]?
     player = SC.Widget($iframe[0])
     player.bind(SC.Widget.Events.READY, ->
         player.bind(SC.Widget.Events.FINISH, ->
@@ -89,11 +87,24 @@ $ ->
         # failed to load the font in 3secs, show the title anyway
         $('.site-title').removeClass('hidden')
 
-    insert_tracks('151785242', '.latest')
-    insert_tracks('153799433', '.featured')
+    # bind various players
+    $latest = $('.latest')
+    $featured = $('.featured')
+    $home_playall = $('.home-playall')
+    $post_player = $('.post-player')
 
-    # bind the play all widget
-    bind_player($('.home-playall'), false)
+    if $latest or $featured or $home_playall or $post_player
+        SC.initialize(client_id: SC_CLIENT_ID)
+
+        # homepage playlists
+        insert_tracks('151785242', $latest)
+        insert_tracks('153799433', $featured)
+
+        # bind the play all widget
+        bind_player($home_playall)
+
+        # if we're on a post page, insert the track
+        insert_single_track($post_player, $post_player.attr('track'))
 
     $('#mc-embedded-subscribe').click ->
         # triggers on the popup and the subscribe page
@@ -103,12 +114,6 @@ $ ->
     $(document.links).filter( ->
         this.hostname != window.location.hostname and this.origin != 'mailto://'
     ).attr('target', '_blank')
-
-    # if we're on a post page, insert the track
-    $post_player = $('.post-player')
-    if $post_player?
-        post_track_id = $post_player.attr('track')
-        insert_single_track($post_player, post_track_id)
 
     # make whole banner clickabble
     $('.site-banner').click( ->
