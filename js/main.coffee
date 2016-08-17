@@ -87,7 +87,7 @@ $ ->
         # failed to load the font in 3secs, show the title anyway
         $('.site-title').removeClass('hidden')
 
-    # bind various players
+    # try to bind various players
     $latest = $('.latest')
     $featured = $('.featured')
     $home_playall = $('.home-playall')
@@ -100,10 +100,10 @@ $ ->
         insert_tracks('151785242', $latest)
         insert_tracks('153799433', $featured)
 
-        # bind the play all widget
+        # play all widget
         bind_player($home_playall)
 
-        # if we're on a post page, insert the track
+        # player on the post pages
         insert_single_track($post_player, $post_player.attr('track'))
 
     $('#mc-embedded-subscribe').click ->
