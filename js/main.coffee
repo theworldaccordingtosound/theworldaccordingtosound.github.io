@@ -114,8 +114,3 @@ $ ->
     $(document.links).filter( ->
         this.hostname != window.location.hostname and this.origin != 'mailto://'
     ).attr('target', '_blank')
-
-    # make whole banner clickabble
-    $('.site-banner').click( ->
-        window.open('http://www.thelab.org/projects/2016/7/28/the-world-according-to-sound', '_blank')
-    )
