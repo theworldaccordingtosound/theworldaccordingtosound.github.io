@@ -1,7 +1,7 @@
 ---
 layout: post
-episode: 54
-title: 'Episode 54: The Sounds of Music (A Long Special)'
+episode: 52.1
+title: 'WATS Special: The Sounds of Music'
 published: true
 track_id: 273295050
 ---
