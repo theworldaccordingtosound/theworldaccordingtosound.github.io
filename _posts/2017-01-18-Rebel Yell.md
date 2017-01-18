@@ -1,0 +1,8 @@
+---
+layout: post
+episode: 60
+title: 'Episode 60: Rebel Yell'
+published: true
+track_id: 303204937
+---
+<div class='list post-player' track='{{page.track_id}}'></div>
