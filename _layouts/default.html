@@ -6,9 +6,10 @@
 
   <body>
 
-    {% include header.html %}
-
-    {% include navigation.html %}
+    {% if page.exclude_header != true %}
+      {% include header.html %}
+      {% include navigation.html %}
+    {% endif %}
 
     <div class="page-content">
       <div class="wrapper">
