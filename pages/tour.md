@@ -7,6 +7,7 @@ exclude_header: true
 
 <div class='tour-header'>The World According to Sound Tour</div>
 <div class='tour-header-image'></div>
+<div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>>
 
 <div class='tour-dates'>
     <div>
