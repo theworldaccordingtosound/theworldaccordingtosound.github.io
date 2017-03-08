@@ -44,7 +44,8 @@ exclude_header: true
     <div>
         <span><b>April 1st 2017</b></span>
         <span>&mdash;</span>
-        <span>Cherry Valley Old School Cafe</span>
+        <a href='https://www.eventbrite.com/e/the-world-according-to-sound-at-the-old-school-cafe-tickets-32561584576'>
+        Cherry Valley Old School Cafe</a>
         <span>&mdash;</span>
         <span>Cherry Valley, NY</span>
     </div>
