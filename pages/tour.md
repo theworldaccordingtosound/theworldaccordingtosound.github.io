@@ -27,7 +27,7 @@ exclude_header: true
         <a href='https://www.uvm.edu/~uvmpr/?Page=EMS&event=2490034'>
         Livak Ballroom University of Vermont</a>
         <span>&mdash;</span>
-        <span>Burlington, Vermont</span>
+        <span>Burlington, VT</span>
     </div>
     <div>
         <span><b>March 29th</b></span>
@@ -40,7 +40,8 @@ exclude_header: true
     <div>
         <span><b>March 31st</b></span>
         <span>&mdash;</span>
-        <span>Town Hall Theater</span>
+        <a href='http://www.townhalltheater.org/calendar-and-tickets/Town'>
+        Town Hall Theater</a> 
         <span>&mdash;</span>
         <span>Middlebury, VT</span>
     </div>
