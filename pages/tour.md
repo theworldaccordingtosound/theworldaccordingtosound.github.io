@@ -11,7 +11,8 @@ exclude_header: true
 
 
 <div class='tour-dates'>
-    <p>For the live version of the show, co-creators Chris Hoff and Sam Harnett set up a ring of speakers, pass out sleep shades, turn out the lights, and move sounds all around an audience seated in total darkness. In one hour they are going to take you on a trip where you will re-experience the world through your ears instead of just your eyes.</p>
+    <p><a href='/'>The World According to Sound</a> is a radio show that airs on All Things Considered on NPR and weekly on individual public radio stations. The Washington Post writes that "each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail." HowSound deconstructed the show's sound-driven approach to radio in <a href='http://transom.org/2016/short-is-beautiful/'>a segment called "Short is Beautiful."</a>
+    </p>
     <h3>2017 Tour Dates</h3>
     <div>
         <span><b>March 8th and 9th</b></span>
@@ -41,7 +42,7 @@ exclude_header: true
         <span><b>March 31st</b></span>
         <span>&mdash;</span>
         <a href='http://www.townhalltheater.org/calendar-and-tickets/Town'>
-        Town Hall Theater</a> 
+        Town Hall Theater</a>
         <span>&mdash;</span>
         <span>Middlebury, VT</span>
     </div>
@@ -86,6 +87,6 @@ exclude_header: true
 </div>
 
 <div class='tour-description'>
-    <p><a href='/'>The World According to Sound</a> is a radio show that airs on All Things Considered on NPR and weekly on individual public radio stations. The Washington Post writes that "each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail." HowSound deconstructed the show's sound-driven approach to radio in <a href='http://transom.org/2016/short-is-beautiful/'>a segment called "Short is Beautiful."</a>
-    </p>
+    <p>For the live version of the show, co-creators Chris Hoff and Sam Harnett set up a ring of speakers, pass out sleep shades, turn out the lights, and move sounds all around an audience seated in total darkness. In one hour they are going to take you on a trip where you will re-experience the world through your ears instead of just your eyes.</p>
+    <p>Thanks to <a href='http://www.clairbrothers.com/'>Clair Brothers</a> for providing us with the awesome speakers to make this event possible!</p>
 </div>
