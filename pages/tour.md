@@ -71,9 +71,11 @@ exclude_header: true
         <span>New York, NY</span>
     </div>
     <div>
+
         <span><b>April 14th 2017</b></span>
         <span>&mdash;</span>
-        <span>The Greene Space</span>
+        <a href='http://www.thegreenespace.org/events/thegreenespace/2017/apr/14/world-according-sound/'>
+        The Greene Space</a>
         <span>&mdash;</span>
         <span>New York, NY</span>
     </div>
