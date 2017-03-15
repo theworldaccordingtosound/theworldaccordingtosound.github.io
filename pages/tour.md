@@ -13,6 +13,8 @@ exclude_header: true
 <div class='tour-dates'>
     <p><a href='/'>The World According to Sound</a> is a radio show that airs on All Things Considered on NPR and weekly on individual public radio stations. The Washington Post writes that "each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail." HowSound deconstructed the show's sound-driven approach to radio in <a href='http://transom.org/2016/short-is-beautiful/'>a segment called "Short is Beautiful."</a>
     </p>
+    <p>Click on the links below to get tickets and reserve your seats!
+    </p>
     <h3>2017 Tour Dates</h3>
     <div>
         <span><b>March 8th and 9th</b></span>
@@ -57,7 +59,8 @@ exclude_header: true
     <div>
         <span><b>April 6st</b></span>
         <span>&mdash;</span>
-        <span>PRX Garage</span>
+        <a href='https://www.eventbrite.com/e/the-world-according-to-sound-at-the-prx-garage-tickets-32877043121'>
+        PRX Garage</a>
         <span>&mdash;</span>
         <span>Boston, MA</span>
     </div>
