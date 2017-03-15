@@ -36,7 +36,7 @@ exclude_header: true
         <span><b>March 29th</b></span>
         <span>&mdash;</span>
         <a href='http://calendar.skidmore.edu/MasterCalendar/EventDetails.aspx?data=hHr80o3M7J5KAuKMYVX%2f%2fHf72zD%2bi0bEDaeanR1tDeodTPI3fPrV7z6sGOuB5P5%2b'>
-        Sikdmore College</a>
+        Skidmore College</a>
         <span>&mdash;</span>
         <span>Saratoga Springs, NY</span>
     </div>
