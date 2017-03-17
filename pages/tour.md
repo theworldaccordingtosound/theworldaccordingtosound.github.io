@@ -82,12 +82,12 @@ exclude_header: true
     <div>
         <span><b>April 12th</b></span>
         <span>&mdash;</span>
-        <span>WhiteBox</span>
+        <a href='https://www.eventbrite.com/e/the-world-according-to-sound-at-the-whitebox-tickets-32965235908'>
+        WhiteBox</a>
         <span>&mdash;</span>
         <span>New York, NY</span>
     </div>
     <div>
-
         <span><b>April 14th</b></span>
         <span>&mdash;</span>
         <a href='http://www.thegreenespace.org/events/thegreenespace/2017/apr/14/world-according-sound/'>
