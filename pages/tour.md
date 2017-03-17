@@ -57,6 +57,14 @@ exclude_header: true
         <span>Cherry Valley, NY</span>
     </div>
     <div>
+        <span><b>April 5th</b></span>
+        <span>&mdash;</span>
+        <a href='http://thesmith.org/'>
+        The Smith Center for the Arts</a>
+        <span>&mdash;</span>
+        <span>Geneva, NY</span>
+    </div>
+    <div>
         <span><b>April 6st</b></span>
         <span>&mdash;</span>
         <a href='https://www.eventbrite.com/e/the-world-according-to-sound-at-the-prx-garage-tickets-32877043121'>
