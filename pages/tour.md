@@ -59,7 +59,7 @@ exclude_header: true
     <div>
         <span><b>April 3rd</b></span>
         <span>&mdash;</span>
-        <a href='http://auburnpublictheater.org/'>
+        <a href='http://auburnpublictheater.org/event/music-the-world-according-to-sound/'>
         Auburn Public Theater</a>
         <span>&mdash;</span>
         <span>Auburn, NY</span>
