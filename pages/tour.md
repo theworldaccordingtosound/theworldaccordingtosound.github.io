@@ -57,6 +57,14 @@ exclude_header: true
         <span>Cherry Valley, NY</span>
     </div>
     <div>
+        <span><b>April 3rd</b></span>
+        <span>&mdash;</span>
+        <a href='http://auburnpublictheater.org/'>
+        Auburn Public Theater</a>
+        <span>&mdash;</span>
+        <span>Auburn, NY</span>
+    </div>
+    <div>
         <span><b>April 5th</b></span>
         <span>&mdash;</span>
         <a href='https://tickets.thesmith.org/TheatreManager/1/tmEvent/tmEvent403.html'>
