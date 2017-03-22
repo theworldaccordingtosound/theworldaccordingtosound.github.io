@@ -67,7 +67,7 @@ exclude_header: true
     <div>
         <span><b>April 5th</b></span>
         <span>&mdash;</span>
-        <a href='https://tickets.thesmith.org/TheatreManager/1/tmEvent/tmEvent403.html'>
+        <a href='http://thesmith.org/event-calendar/world-according-sound/'>
         The Smith Center for the Arts</a>
         <span>&mdash;</span>
         <span>Geneva, NY</span>
