@@ -81,11 +81,12 @@ exclude_header: true
         <span>Boston, MA</span>
     </div>
     <div>
-        <span><b>April 11th</b></span>
+         <span><b>April 11th</b></span>
         <span>&mdash;</span>
-        <span>Boston University</span>
+        <a href='https://www.centralsquaretheater.org/events/world-according-sound/'>
+        Central Square Theater</a>
         <span>&mdash;</span>
-        <span>Boston, MA</span>
+        <span>Cambridge, MA</span>
     </div>
     <div>
         <span><b>April 12th</b></span>
