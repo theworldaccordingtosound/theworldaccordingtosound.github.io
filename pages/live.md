@@ -10,7 +10,7 @@ exclude_header: true
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>>
 
 <div class='tour-dates'>
-We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. Book us!
+We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. <a href="#book_the_world_according_to_sound">Book us!</a>
 </div>
 
 The Live Show
@@ -27,7 +27,7 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 
 PHOTOS: Sam Mudpot and Chris Dog
 
-Book Us
+<a name="book_the_world_according_to_sound"></a>Book Us
 
 We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space. thewatsound@gmail.com
 
