@@ -24,6 +24,7 @@ PHOTO GALLERY
 <p>Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW. Two years ago they set out to create a radio show that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.</p>
 <p><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="640" height="448"><br>
 <img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427">
+<div class="live-caption">Top: Sam Harnett, Bottom: Chris Hoff.</div>
 </p>
 </div>
 <div class='tour-description'>
