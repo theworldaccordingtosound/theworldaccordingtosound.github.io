@@ -66,5 +66,5 @@ Vermont Cynic: Audio Experience Provides World of Sounds</li>
 <div class='tour-description'>
 <h3><a href="https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1">Playlist of sounds for the live show.</a></h3>
 
-PHOTO: Standing Profile
+<img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427">
 </div>
