@@ -26,7 +26,7 @@ PHOTO GALLERY
 </div>
 <div class='tour-description'>
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
-<p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space. <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
+<p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
 
 <p>PHOTO: Claire Brothers Setup</p>
 
@@ -52,7 +52,7 @@ PHOTO GALLERY
 
 <ul>
 <li><strong>HowSound: Short is Beautiful</strong><br> 
-“Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock – shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”</li>
+“Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock &mdash; shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”</li>
 <li><strong>The Washington Post: Listen In</strong><br>
 “Each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail: the rhythm of washing machines, or the sound of grunting athletes, or a recording of ants marching on the surface of a microphone. Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
 <li><strong>KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</strong><br>
@@ -64,7 +64,7 @@ Vermont Cynic: Audio Experience Provides World of Sounds</li>
 </div>
 
 <div class='tour-description'>
-Playlist of sounds for the live show: https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1 
+<a href="https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1">Playlist of sounds for the live show.</a>
 
 PHOTO: Standing Profile
 </div>
