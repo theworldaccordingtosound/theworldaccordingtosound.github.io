@@ -19,15 +19,16 @@ exclude_header: true
 PHOTO GALLERY
 <p>You will hear bridges and ants and the gurgle of mud pots. You will be transported inside another person's head, and back in time a hundred years to the streets of Berlin. You’ll fly out into space and bore deep inside the bowels of the earth. There is a musical washing machine, sonorous sporting events, and the disturbing howl Marco Polo heard while crossing the Gobi Desert. There's absolutely nothing to see. It will be a spectacle entirely for the ears.</p>
 </div>
-<div class='tour-description">
+<div class='tour-description'>
 <h3>Who We Are</h3>
 <p>Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW. Two years ago they set out to create a radio show that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.</p>
 
 PHOTOS: Sam Mudpot and Chris Dog
-
-<a name="book_the_world_according_to_sound"></a>Book Us
-
-We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space. thewatsound@gmail.com
+</div>
+<div class='tour-description'>
+<a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
+<p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space. <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
+</div>
 
 PHOTO: Claire Brothers Setup
 
