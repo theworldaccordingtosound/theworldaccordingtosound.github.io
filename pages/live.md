@@ -10,10 +10,10 @@ exclude_header: true
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>>
 
 <div class='tour-dates'>
-We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. <a href="#book_the_world_according_to_sound">Book us!</a>
+We’re touring the East Coast again this October with our live show and lecture series. We’d love to come perform for you and talk about radio, journalism, and sound. <a href="#book_the_world_according_to_sound">Book us!</a>
 </div>
 
-The Live Show
+<h3>The Live Show</h3>
 
 We set up a ring of loudspeakers, pass out eye masks, turn off the lights, and move sounds all around the room. 
 
