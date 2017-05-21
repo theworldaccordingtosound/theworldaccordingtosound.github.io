@@ -50,37 +50,21 @@ PHOTO GALLERY
 <h3>Selected Press</h3>
 <p>“The World According to Sound” is a 90-second radio show. Segments run on NPR’s <em>All Things Considered</em> and individually on public radio stations. The show has been featured on radio programs like NHPR's <em>Overheard</em> and <em>Word of Mouth,</em> KALW's <em>The Spot,</em> and CBC's <em>Podcast Playlist.</em> The live version of the show is put on with sound equipment provided by Clair Brothers. Below is some selected press about the radio program and live show.</p>
 
-HowSound: Short is Beautiful 
-
+<ul>
+<li>HowSound: Short is Beautiful<br> 
 “Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock – shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”
-
-The Washington Post: Listen In
-
+<li>The Washington Post: Listen In<br>
 “Each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail: the rhythm of washing machines, or the sound of grunting athletes, or a recording of ants marching on the surface of a microphone. Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”
-
-KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences
-
+<li>KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences<br>
 “Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think. They want listeners of each tiny episode to come away with their own experiences, and the subjects they cover provide plenty to think about: recordings of ants walking, a song CNN has queued up in case the world ends, or vintage audio of Nazi fighter planes on the attack.”
-
-The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour
-
+<li>The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour<br>
 Vermont Cynic: Audio Experience Provides World of Sounds
-
-Seven Days: 'The World According to Sound' Brings Audio Show to Vermont
+<li>Seven Days: 'The World According to Sound' Brings Audio Show to Vermont
+</ul>
 </div>
 
+<div class='tour-description'>
 Playlist of sounds for the live show: https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1 
 
 PHOTO: Standing Profile
-
-PRESS
-Transom’s HowSound
-KQED’s Earful
-Lab
-Washington Post
-LightHouse
-Greene Space
-Skidmore paper/video
-Seven Days
-Vermont Cynic
-
+</div>
