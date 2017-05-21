@@ -16,7 +16,7 @@ exclude_header: true
 <div class='tour-description'>
 <h3>The Live Show</h3>
 <p>We set up a ring of loudspeakers, pass out eye masks, turn off the lights, and move sounds all around the room.</p>
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Skidmore%20Audience%20SMALL.jpg" width="640" height="418" class="live-image"></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Skidmore%20Audience%20SMALL.JPG" width="640" height="418" class="live-image"></p>
 <p>You will hear bridges and ants and the gurgle of mud pots. You will be transported inside another person's head, and back in time a hundred years to the streets of Berlin. You’ll fly out into space and bore deep inside the bowels of the earth. There is a musical washing machine, sonorous sporting events, and the disturbing howl Marco Polo heard while crossing the Gobi Desert. There's absolutely nothing to see. It will be a spectacle entirely for the ears.</p>
 </div>
 <div class='tour-description'>
