@@ -1,21 +1,21 @@
 ---
 layout: default
-title: World According to Sound Live!
+title: World According to Sound Live
 permalink: /live/
 exclude_header: true
 ---
 
-<div class='tour-header'>The World According to Sound Live!</div>
+<div class='tour-header'>The World According to Sound Live</div>
 <div class='tour-header-image'></div>
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>>
 
-We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. Book us! [link to BOOK US section]
+We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. Book us!
 
 The Live Show
 
 We set up a ring of loudspeakers, pass out eye masks, turn off the lights, and move sounds all around the room. 
 
-PHOTO GALLERY [6 or 7 Photos of performance spaces]
+PHOTO GALLERY
 
 You will hear bridges and ants and the gurgle of mud pots. You will be transported inside another person's head, and back in time a hundred years to the streets of Berlin. You’ll fly out into space and bore deep inside the bowels of the earth. There is a musical washing machine, sonorous sporting events, and the disturbing howl Marco Polo heard while crossing the Gobi Desert. There's absolutely nothing to see. It will be a spectacle entirely for the ears.
 
@@ -65,7 +65,7 @@ Vermont Cynic: Audio Experience Provides World of Sounds
 
 Seven Days: 'The World According to Sound' Brings Audio Show to Vermont
 
-Playlist of sounds for the live show:  https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1 
+Playlist of sounds for the live show: https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1 
 
 PHOTO: Standing Profile
 
@@ -79,7 +79,4 @@ Greene Space
 Skidmore paper/video
 Seven Days
 Vermont Cynic
-
-Playlist of Sounds
-https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1 
 
