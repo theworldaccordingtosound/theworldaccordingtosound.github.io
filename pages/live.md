@@ -9,7 +9,9 @@ exclude_header: true
 <div class='tour-header-image'></div>
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>>
 
+<div class='tour-dates'>
 We’re touring the East Coast again this October with our live show and lecture series! We’d love to come perform for you and talk about radio, journalism, and sound. Book us!
+</div>
 
 The Live Show
 
