@@ -51,15 +51,15 @@ PHOTO GALLERY
 <p>“The World According to Sound” is a 90-second radio show. Segments run on NPR’s <em>All Things Considered</em> and individually on public radio stations. The show has been featured on radio programs like NHPR's <em>Overheard</em> and <em>Word of Mouth,</em> KALW's <em>The Spot,</em> and CBC's <em>Podcast Playlist.</em> The live version of the show is put on with sound equipment provided by Clair Brothers. Below is some selected press about the radio program and live show.</p>
 
 <ul>
-<li>HowSound: Short is Beautiful<br> 
-“Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock – shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”
-<li>The Washington Post: Listen In<br>
-“Each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail: the rhythm of washing machines, or the sound of grunting athletes, or a recording of ants marching on the surface of a microphone. Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”
-<li>KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences<br>
-“Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think. They want listeners of each tiny episode to come away with their own experiences, and the subjects they cover provide plenty to think about: recordings of ants walking, a song CNN has queued up in case the world ends, or vintage audio of Nazi fighter planes on the attack.”
-<li>The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour<br>
-Vermont Cynic: Audio Experience Provides World of Sounds
-<li>Seven Days: 'The World According to Sound' Brings Audio Show to Vermont
+<li><strong>HowSound: Short is Beautiful</strong><br> 
+“Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock – shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”</li>
+<li><strong>The Washington Post: Listen In</strong><br>
+“Each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail: the rhythm of washing machines, or the sound of grunting athletes, or a recording of ants marching on the surface of a microphone. Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
+<li><strong>KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</strong><br>
+“Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think. They want listeners of each tiny episode to come away with their own experiences, and the subjects they cover provide plenty to think about: recordings of ants walking, a song CNN has queued up in case the world ends, or vintage audio of Nazi fighter planes on the attack.”</li>
+<li><strong>The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour</strong><br>
+Vermont Cynic: Audio Experience Provides World of Sounds</li>
+<li><strong>Seven Days: 'The World According to Sound' Brings Audio Show to Vermont</strong></li>
 </ul>
 </div>
 
