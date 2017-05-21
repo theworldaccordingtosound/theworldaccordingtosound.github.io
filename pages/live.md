@@ -28,7 +28,7 @@ PHOTO GALLERY
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
 <p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
 
-<p>PHOTO: Claire Brothers Setup</p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"></p>
 
 </div>
 
