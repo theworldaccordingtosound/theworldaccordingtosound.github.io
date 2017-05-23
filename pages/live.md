@@ -54,18 +54,16 @@ exclude_header: true
 
 <ul>
 <li><strong><a href="http://transom.org/2016/short-is-beautiful/">HowSound: Short is Beautiful</a></strong></li>
-<li><strong><a href="https://www.washingtonpost.com/graphics/entertainment/podcasts-2017/">The Washington Post: Listen In</a></strong><br>
-“Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
-<li><strong><a href="https://ww2.kqed.org/arts/2016/08/24/the-world-according-to-sound-lets-listeners-create-their-own-experiences/">KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</a></strong><br>
-“Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think.”</li>
+<li><strong><a href="https://www.washingtonpost.com/graphics/entertainment/podcasts-2017/">The Washington Post: Listen In</a></strong> “Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
+<li><strong><a href="https://ww2.kqed.org/arts/2016/08/24/the-world-according-to-sound-lets-listeners-create-their-own-experiences/">KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</a></strong> “Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think.”</li>
 <li><strong><a href="http://auburnpub.com/entertainment/the-world-according-to-sound-auburn-next-stop-on-radio/article_26d8cce9-4284-5083-a774-257e5c22d8e9.html">The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour</a></strong></li>
 <li><strong><a href="http://vtcynic.com/39249/arts/audio-experience-provides-world-of-sounds/">Vermont Cynic: Audio Experience Provides World of Sounds</a></li>
-<li><strong>Seven Days: 'The World According to Sound' Brings Audio Show to Vermont</strong></li>
+<li><strong><a href="https://www.sevendaysvt.com/LiveCulture/archives/2017/03/19/the-world-according-to-sound-brings-audio-show-to-vermont">Seven Days: 'The World According to Sound' Brings Audio Show to Vermont</a></strong></li>
 </ul>
 </div>
 
 <div class='tour-description'>
 <h3><a href="https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1">Playlist of sounds for the live show.</a></h3>
 
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">The World According to Sound Team, Sam and Chris. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
