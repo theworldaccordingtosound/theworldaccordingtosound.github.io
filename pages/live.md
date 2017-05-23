@@ -63,7 +63,7 @@ exclude_header: true
 </div>
 
 <div class='tour-description'>
-<h3><a href="https://soundcloud.com/worldaccordingtosound/sets/live-show-playlist-1">Playlist of sounds for the live show.</a></h3>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/255554061&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 <p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">The World According to Sound Team, Sam and Chris. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
