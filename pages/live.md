@@ -22,8 +22,8 @@ exclude_header: true
 <div class='tour-description'>
 <h3>Who We Are</h3>
 <p>Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW. Two years ago they set out to create a radio show that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.</p>
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="640" height="448" class="live-image"><div class="live-photo-credit">Sam Harnett Interviewing a Mudpot. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div><br>
-<img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">Chris Hoff interviewing a dog. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+<div style="float:left; width:320px; height:260px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="320" height="224" class="live-image"><div class="live-photo-credit">Sam Harnett Interviewing a Mudpot. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div>
+<div style="float:right; width:320px; height:250px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="320" height="214" class="live-image"><div class="live-photo-credit">Chris Hoff interviewing a dog. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div></p>
 </div>
 <div class='tour-description'>
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
@@ -63,7 +63,9 @@ exclude_header: true
 </div>
 
 <div class='tour-description'>
+<h3>Playlist</h3>
+<p>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/255554061&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
+</p>
 <p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">The World According to Sound Team, Sam and Chris. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
