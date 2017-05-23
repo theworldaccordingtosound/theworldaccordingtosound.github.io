@@ -53,14 +53,13 @@ exclude_header: true
 <p>“The World According to Sound” is a 90-second radio show. Segments run on NPR’s <em>All Things Considered</em> and individually on public radio stations. The show has been featured on radio programs like NHPR's <em>Overheard</em> and <em>Word of Mouth,</em> KALW's <em>The Spot,</em> and CBC's <em>Podcast Playlist.</em> The live version of the show is put on with sound equipment provided by Clair Brothers. Below is some selected press about the radio program and live show.</p>
 
 <ul>
-<li><strong>HowSound: Short is Beautiful</strong><br> 
-“Producers Chris Hoff and Sam Harnett have chosen to go the other way with their freedom from the clock &mdash; shorter. Ninety seconds short. The results are tasty little morsels that are quite satisfying.”</li>
-<li><strong>The Washington Post: Listen In</strong><br>
-“Each episode is 90 seconds, containing a neat little story about an evocative, unusual sound rendered in intense aural detail: the rhythm of washing machines, or the sound of grunting athletes, or a recording of ants marching on the surface of a microphone. Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
-<li><strong>KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</strong><br>
-“Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think. They want listeners of each tiny episode to come away with their own experiences, and the subjects they cover provide plenty to think about: recordings of ants walking, a song CNN has queued up in case the world ends, or vintage audio of Nazi fighter planes on the attack.”</li>
-<li><strong>The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour</strong><br>
-Vermont Cynic: Audio Experience Provides World of Sounds</li>
+<li><strong><a href="http://transom.org/2016/short-is-beautiful/">HowSound: Short is Beautiful</a></strong></li>
+<li><strong><a href="https://www.washingtonpost.com/graphics/entertainment/podcasts-2017/">The Washington Post: Listen In</a></strong><br>
+“Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
+<li><strong><a href="https://ww2.kqed.org/arts/2016/08/24/the-world-according-to-sound-lets-listeners-create-their-own-experiences/">KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</a></strong><br>
+“Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think.”</li>
+<li><strong><a href="http://auburnpub.com/entertainment/the-world-according-to-sound-auburn-next-stop-on-radio/article_26d8cce9-4284-5083-a774-257e5c22d8e9.html">The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour</a></strong></li>
+<li><strong><a href="http://vtcynic.com/39249/arts/audio-experience-provides-world-of-sounds/">Vermont Cynic: Audio Experience Provides World of Sounds</a></li>
 <li><strong>Seven Days: 'The World According to Sound' Brings Audio Show to Vermont</strong></li>
 </ul>
 </div>
