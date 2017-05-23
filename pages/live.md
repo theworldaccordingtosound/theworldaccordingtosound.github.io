@@ -23,15 +23,14 @@ exclude_header: true
 <h3>Who We Are</h3>
 <p>Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW. Two years ago they set out to create a radio show that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.</p>
 <p><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="640" height="448" class="live-image"><br>
-<img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427" class="live-image">
-<div class="live-photo-credit">Top: Sam Harnett, Bottom: Chris Hoff. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>
-</p>
+<img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">Top: Sam Harnett, Bottom: Chris Hoff. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
 <div class='tour-description'>
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
 <p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
 
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"><div class="live-photo-credit">Working on the performance at Clair Brothers. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+
 
 </div>
 
