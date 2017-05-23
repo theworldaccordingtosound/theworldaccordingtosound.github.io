@@ -22,8 +22,8 @@ exclude_header: true
 <div class='tour-description'>
 <h3>Who We Are</h3>
 <p>Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW. Two years ago they set out to create a radio show that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.</p>
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="640" height="448" class="live-image"><br>
-<img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">Top: Sam Harnett interviewing a mudpot, Bottom: Chris Hoff interviewing a dog. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="640" height="448" class="live-image"><div class="live-photo-credit">Sam Harnett Interviewing a Mudpot. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div<br>
+<img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">Chris Hoff interviewing a dog. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
 <div class='tour-description'>
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
@@ -57,7 +57,7 @@ exclude_header: true
 <li><strong><a href="https://www.washingtonpost.com/graphics/entertainment/podcasts-2017/">The Washington Post: Listen In</a></strong> “Sometimes the episodes are spine-tingling; sometimes they make me squirm. But they’re always interesting.”</li>
 <li><strong><a href="https://ww2.kqed.org/arts/2016/08/24/the-world-according-to-sound-lets-listeners-create-their-own-experiences/">KQED’s Earful: ‘The World According to Sound’ let’s listeners create their own experiences</a></strong> “Sam Harnett and Chris Hoff wanted to create a show that didn’t tell audiences what to think.”</li>
 <li><strong><a href="http://auburnpub.com/entertainment/the-world-according-to-sound-auburn-next-stop-on-radio/article_26d8cce9-4284-5083-a774-257e5c22d8e9.html">The Citizen: 'The World According to Sound': Auburn next stop on radio program's tour</a></strong></li>
-<li><strong><a href="http://vtcynic.com/39249/arts/audio-experience-provides-world-of-sounds/">Vermont Cynic: Audio Experience Provides World of Sounds</a></li>
+<li><strong><a href="http://vtcynic.com/39249/arts/audio-experience-provides-world-of-sounds/">Vermont Cynic: Audio Experience Provides World of Sounds</a></strong></li>
 <li><strong><a href="https://www.sevendaysvt.com/LiveCulture/archives/2017/03/19/the-world-according-to-sound-brings-audio-show-to-vermont">Seven Days: 'The World According to Sound' Brings Audio Show to Vermont</a></strong></li>
 </ul>
 </div>
