@@ -16,15 +16,15 @@ exclude_header: true
 <div class='tour-description'>
 <h3>The Live Show</h3>
 <p>We set up a ring of loudspeakers, pass out eye masks, turn off the lights, and move sounds all around the room.</p>
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Skidmore%20Audience%20SMALL.JPG" width="640" height="418" class="live-image"> <div class="live-photo-credit">Performance at Skidmore College. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Skidmore%20Audience%20SMALL.JPG" width="640" height="418" class="live-image"> <div class="live-photo-credit"><em>Performance at Skidmore College.</em> Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 <p>You will hear bridges and ants and the gurgle of mud pots. You will be transported inside another person's head, and back in time a hundred years to the streets of Berlin. You’ll fly out into space and bore deep inside the bowels of the earth. There is a musical washing machine, sonorous sporting events, and the disturbing howl Marco Polo heard while crossing the Gobi Desert. There's absolutely nothing to see. It will be a spectacle entirely for the ears.</p>
 </div>
 <div class='tour-description'>
 <h3>Who We Are</h3>
 <p>
-<div style="float:left; width:320px; height:260px; margin-right:10px; margin-bottom:10px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="320" height="224" class="live-image" style="margin-bottom:8px;"><div class="live-photo-credit">Sam Harnett Interviewing a Mudpot. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div>
+<div style="float:left; width:320px; height:260px; margin-right:10px; margin-bottom:10px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Sam%20Mudpot%20SMALL.jpg" width="320" height="224" class="live-image" style="margin-bottom:8px;"><div class="live-photo-credit"><em>Sam Harnett Interviewing a Mudpot.</em> Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div>
 Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, and NPR programs like <em>Morning Edition</em> and <em>All Things Considered.</em> Chris Hoff is the senior engineer and sound designer for <em>Crosscurrents</em> on KALW.
- Two years ago they set out to create a radio show <div style="float:right; width:320px; height:250px; margin-left:10px; margin-top:10px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="320" height="214" class="live-image" style="margin-bottom:8px;"><div class="live-photo-credit">Chris Hoff interviewing a dog. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div> that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.
+ Two years ago they set out to create a radio show <div style="float:right; width:320px; height:250px; margin-left:10px; margin-top:10px;"><img src="http://www.theworldaccordingtosound.org/assets/images/Chris%20Dog%20SMALL.jpg" width="320" height="214" class="live-image" style="margin-bottom:8px;"><div class="live-photo-credit"><em>Chris Hoff interviewing a dog.</em> Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></div> that did not rely on narrative and storytelling; a program that would focus on sound instead of language. They are now touring with their live show, performing and talking with students about sound, modern radio, and the current state of media.
 
 </p>
 </div>
@@ -32,7 +32,7 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
 <p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
 
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"><div class="live-photo-credit">Working on the performance at Clair Brothers. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"><div class="live-photo-credit"><em>Working on the performance at Clair Brothers.</em> Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 
 
 </div>
@@ -70,5 +70,5 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 <p>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/255554061&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 </p>
-<p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit">The World According to Sound Team, Sam and Chris. Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
+<p><img src="http://www.theworldaccordingtosound.org/assets/images/Standing%20Profile%20SMALL.jpg" width="640" height="427" class="live-image"><div class="live-photo-credit"><em>The World According to Sound Team: Sam and Chris.</em> Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div></p>
 </div>
