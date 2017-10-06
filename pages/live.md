@@ -10,7 +10,72 @@ exclude_header: true
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>
 
 <div class='tour-dates'>
-<p>We’re touring the East Coast again this October with our live show and lecture series. We’d love to come perform for you and talk about radio, journalism, and sound. <a href="#book_the_world_according_to_sound">Book us!</a></p>
+    <h3>Fall 2017 Tour</h3>
+    <div>We're touring again this October with our live show and lecture series.</div>
+    <div>
+        <div>
+            <span><b>October 10th</b></span>
+            <span>&mdash;</span>
+            <a href='https://bowerbird.ticketleap.com/world-according-to-sound/'>Bowerbird</a>
+            <span>&mdash;</span>
+            <span>Philadelphia, PA</span>
+        </div>
+        <div>
+            <span><b>October 13th</b></span>
+            <span>&mdash;</span>
+            <span>University of Detroit, Mercy</span>
+            <span>&mdash;</span>
+            <span>Detroit, MI</span>
+        </div>
+        <div>
+            <span><b>October 17th</b></span>
+            <span>&mdash;</span>
+            <a href='http://europe.wisc.edu/events/world-according-sound/'>Northwestern University</a>
+            <span>&mdash;</span>
+            <span>Evanston, IL</span>
+        </div>
+        <div>
+            <span><b>October 19th</b></span>
+            <span>&mdash;</span>
+            <a href='http://legacy.wbur.org/community/events/2017/09/19/the-world-according-to-sound-live'>Middlesex Lounge Sponsored by WBUR</a>
+            <span>&mdash;</span>
+            <span>Cambridge, MA</span>
+        </div>
+        <div>
+            <span><b>October 24th</b></span>
+            <span>&mdash;</span>
+            <a href='https://entrepreneurship.brown.edu/event/sound-ideas-close-listening-podcasting-new-radio/
+'>Brown University</a>
+            <span>&mdash;</span>
+            <span>Providence, RI</span>
+        </div>
+
+        <div>
+            <span><b>October 25th</b></span>
+            <span>&mdash;</span>
+            <a href='http://events.cornell.edu/event/cornell_media_studies_presents_the_world_according_to_sound'>Cornell University</a>
+            <span>&mdash;</span>
+            <span>Ithaca, NY</span>
+        </div>
+
+        <div>
+            <span><b>October 30th</b></span>
+            <span>&mdash;</span>
+            <span>The New School</span>
+            <span>&mdash;</span>
+            <span>New York, NY</span>
+        </div>
+
+        <div>
+            <span><b>November 2nd</b></span>
+            <span>&mdash;</span>
+            <span>University of Virginia</span>
+            <span>&mdash;</span>
+            <span>Charlottesville, VA</span>
+        </div>
+    </div>
+    <div>Thanks to Clair Brothers for providing us with some kick-ass speakers for the tour. You can learn more about their <a href='http://www.clairbrothers.com'>equipment here</a>.</div>
+    <img src="/assets/clairebrothers-logo.png">
 </div>
 
 <div class='tour-description'>
@@ -39,7 +104,7 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 
 <div class='tour-description'>
 <h3>The Performance</h3>
-<p>For the live show we set up a ring of eight loudspeakers around the audience, and then we take the sounds from our radio show and move them all around the space. We do live narration, but we talk very little, just enough to tell you what the sound is and to give each one a bit of context. The sounds are mixed so that each speaker can be individually controlled, allowing us to move sound to different parts of the room. So a tennis ball can fly over your head from one side of the room to the other. Ants can scurry in and out of different speakers. And the cables of the Golden Gate Bridge can twang and thrum on all sides.</p> 
+<p>For the live show we set up a ring of eight loudspeakers around the audience, and then we take the sounds from our radio show and move them all around the space. We do live narration, but we talk very little, just enough to tell you what the sound is and to give each one a bit of context. The sounds are mixed so that each speaker can be individually controlled, allowing us to move sound to different parts of the room. So a tennis ball can fly over your head from one side of the room to the other. Ants can scurry in and out of different speakers. And the cables of the Golden Gate Bridge can twang and thrum on all sides.</p>
 
 <p>The show is about an hour long and everyone sits in the dark with eye masks that we provide. We normally perform for around 150 people at a time. The upper limit would be around 300 people. The ideal space is a squarish room with moveable seating. We arrange our eight, free-standing speakers in a square around the audience, and it is optimal to have at least five feet from the speaker to the nearest audience member. The only equipment we’d need from the venue is a PA system to do our live narration.</p>
 
