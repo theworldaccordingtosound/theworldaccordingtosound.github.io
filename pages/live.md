@@ -30,7 +30,7 @@ exclude_header: true
         <div>
             <span><b>October 16th</b></span>
             <span>&mdash;</span>
-            <a href='http://europe.wisc.edu/events/world-according-sound/>University of Wisconsin, Madison</a>
+            <a href='http://europe.wisc.edu/events/world-according-sound/'>University of Wisconsin, Madison</a>
             <span>&mdash;</span>
             <span>Madison, WI</span>
         </div>
