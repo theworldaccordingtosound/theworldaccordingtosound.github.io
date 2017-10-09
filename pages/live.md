@@ -28,6 +28,13 @@ exclude_header: true
             <span>Detroit, MI</span>
         </div>
         <div>
+            <span><b>October 16th</b></span>
+            <span>&mdash;</span>
+            <a href='http://europe.wisc.edu/events/world-according-sound/>University of Wisconsin, Madison</a>
+            <span>&mdash;</span>
+            <span>Madison, WI</span>
+        </div>
+        <div>
             <span><b>October 17th</b></span>
             <span>&mdash;</span>
             <a href='http://europe.wisc.edu/events/world-according-sound/'>Northwestern University</a>
