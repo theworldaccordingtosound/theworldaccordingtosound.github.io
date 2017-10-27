@@ -68,7 +68,7 @@ exclude_header: true
         <div>
             <span><b>October 30th</b></span>
             <span>&mdash;</span>
-            <span>The New School</span>
+            <a href='https://events.newschool.edu/event/the_world_according_to_sound_live#.WfOdUxNSxE4'>The New School</a>
             <span>&mdash;</span>
             <span>New York, NY</span>
         </div>
