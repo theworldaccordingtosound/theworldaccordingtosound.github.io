@@ -8,83 +8,9 @@ exclude_header: true
 <div class='tour-header'>The World According to Sound, Live!</div>
 <div class='tour-header-image'></div>
 <div class='tour-photo-credit'>Photo Credit: <a href="http://www.vigfusson.com/">Gundi Vigfusson</a></div>
-
-<div class='tour-dates'>
-    <h3>Fall 2017 Tour</h3>
-    <div>We're touring again this October with our live show and lecture series.</div>
-    <div>
-        <div>
-            <span><b>October 10th</b></span>
-            <span>&mdash;</span>
-            <a href='https://bowerbird.ticketleap.com/world-according-to-sound/'>Bowerbird</a>
-            <span>&mdash;</span>
-            <span>Philadelphia, PA</span>
-        </div>
-        <div>
-            <span><b>October 13th</b></span>
-            <span>&mdash;</span>
-            <span>University of Detroit, Mercy</span>
-            <span>&mdash;</span>
-            <span>Detroit, MI</span>
-        </div>
-        <div>
-            <span><b>October 16th</b></span>
-            <span>&mdash;</span>
-            <a href='http://europe.wisc.edu/events/world-according-sound/'>University of Wisconsin, Madison</a>
-            <span>&mdash;</span>
-            <span>Madison, WI</span>
-        </div>
-        <div>
-            <span><b>October 17th</b></span>
-            <span>&mdash;</span>
-            <a href='http://europe.wisc.edu/events/world-according-sound/'>Northwestern University</a>
-            <span>&mdash;</span>
-            <span>Evanston, IL</span>
-        </div>
-        <div>
-            <span><b>October 19th</b></span>
-            <span>&mdash;</span>
-            <a href='http://legacy.wbur.org/community/events/2017/09/19/the-world-according-to-sound-live'>Middlesex Lounge Sponsored by WBUR</a>
-            <span>&mdash;</span>
-            <span>Cambridge, MA</span>
-        </div>
-        <div>
-            <span><b>October 24th</b></span>
-            <span>&mdash;</span>
-            <a href='https://entrepreneurship.brown.edu/event/sound-ideas-close-listening-podcasting-new-radio/
-'>Brown University</a>
-            <span>&mdash;</span>
-            <span>Providence, RI</span>
-        </div>
-
-        <div>
-            <span><b>October 25th</b></span>
-            <span>&mdash;</span>
-            <a href='http://events.cornell.edu/event/cornell_media_studies_presents_the_world_according_to_sound'>Cornell University</a>
-            <span>&mdash;</span>
-            <span>Ithaca, NY</span>
-        </div>
-
-        <div>
-            <span><b>October 30th</b></span>
-            <span>&mdash;</span>
-            <a href='https://events.newschool.edu/event/the_world_according_to_sound_live#.WfOdUxNSxE4'>The New School</a>
-            <span>&mdash;</span>
-            <span>New York, NY</span>
-        </div>
-
-        <div>
-            <span><b>November 2nd</b></span>
-            <span>&mdash;</span>
-            <span>University of Virginia</span>
-            <span>&mdash;</span>
-            <span>Charlottesville, VA</span>
-        </div>
-    </div>
-    <div>Thanks to Clair Brothers for providing us with some kick-ass speakers for the tour. You can learn more about their <a href='http://www.clairbrothers.com'>equipment here</a>.</div>
-    <img src="/assets/clairebrothers-logo.png">
-</div>
-
+<div class='padding'></div>
+{% include navigation.html %}
+{% include tour_dates.html %}
 <div class='tour-description'>
 <h3>The Live Show</h3>
 <p>We set up a ring of loudspeakers, pass out eye masks, turn off the lights, and move sounds all around the room.</p>

@@ -219,8 +219,11 @@ p {
         text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; }
         .site-nav .page-link:not(:first-child) {
           margin-left: 0; } }
+  .site-nav .page-link {
+    color: black;}
   .site-nav .page-link:hover {
-    opacity: 0.8; }
+    opacity: 0.8;
+    color: #003fcc; }
   @media screen and (max-width: 700px) {
     .site-nav {
       padding-bottom: 10px; } }
@@ -275,6 +278,8 @@ p {
   text-align: left; }
   .page-content a {
     color: #0066cc; }
+  .page-content a:hover {
+    color: #003fcc; }
 
 .page-heading {
   font-size: 20px;
@@ -474,10 +479,8 @@ img[alt=icon] {
   position: relative;
   right: 5px;
 }
-    
+
 .tour-dates {
-  margin-top: 610px;
-  margin-bottom: 50px;
   font-size: 18px;
 }
 
@@ -494,19 +497,12 @@ img[alt=icon] {
   font-size: 18px;
 }
 
-.tour-banner-link {
-  font-size: 18px;
-  background-color: black;
-  color: white;
-  position: absolute;
-  left: 0;
-  right: 0;
-  padding: 10px;
-  text-align: center;
+.tour-subtext {
+  margin-top: 10px;
 }
 
-.tour-banner-link:hover {
-  color: white;
+.padding {
+  margin-top: 610px;
 }
 
   </style>
