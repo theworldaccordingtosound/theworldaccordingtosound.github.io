@@ -3,8 +3,8 @@ layout: page
 title: Episodes
 permalink: /episodes/
 ---
-<div class="home-heading">Featured</div>
-<ul class="featured list"></ul>
+<div class="home-heading">Latest</div>
+<ul class="latest list"></ul>
 <div class='episode-list'>
   {% assign sorted_posts = site.posts | sort: "episode" %}
   {% for post in sorted_posts reversed %}
