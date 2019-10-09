@@ -434,9 +434,14 @@ img[alt=icon] {
 #mc_embed_signup #mce-success-response {color:#529214; display:none;}
 #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
 
-/* Tour Page
+/* Pages
  * ============================================== */
-.tour-header {
+
+.padding {
+  margin-top: 610px;
+}
+
+.page-header {
   color: white;
   font-size: 35px;
   letter-spacing: 3px;
@@ -453,8 +458,7 @@ img[alt=icon] {
   text-shadow: 2px 2px black;
 }
 
-.tour-header-image {
-  background: url(/assets/tour_banner_2.jpg) no-repeat center center;
+.page-header-image {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -467,7 +471,14 @@ img[alt=icon] {
   z-index: -1;
 }
 
-.tour-photo-credit {
+/* Live Page
+ * ============================================== */
+
+.live-header-image {
+  background: url(/assets/tour_banner_2.jpg) no-repeat center center;
+}
+
+.main-live-photo-credit {
   font-size: 10px;
   position: absolute;
   top: 555px;
@@ -479,6 +490,14 @@ img[alt=icon] {
   position: relative;
   right: 5px;
 }
+
+.live-description {
+  font-size: 18px;
+}
+
+
+/* tour section
+ * ============================================== */
 
 .tour-dates {
   font-size: 18px;
@@ -493,17 +512,20 @@ img[alt=icon] {
   margin-bottom: 20px;
 }
 
-.tour-description {
-  font-size: 18px;
-}
-
 .tour-subtext {
   margin-top: 10px;
 }
 
-.padding {
-  margin-top: 610px;
+/* Cornell Page
+ * ============================================== */
+
+.cornell-header-image {
+  background: url(/assets/images/cornell.jpg) no-repeat center center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
+
 
   </style>
 </head>
