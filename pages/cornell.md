@@ -5,7 +5,7 @@ permalink: /cornell/
 exclude_header: true
 ---
 
+<img class='cornell-header-image' src="/assets/images/cornell.jpg"/>
 <div class='page-header'>Sonic University at Cornell</div>
-<div class='page-header-image cornell-header-image'></div>
-<div class='padding'></div>
+<div class='cornell-padding'></div>
 {% include navigation.html %}
