@@ -18,6 +18,9 @@ exclude_header: true
 <p>
     Come listen to what we heard on <b>November 20th and 21st at the Schwartz Center for the Performing Arts</b>. Tickets available soon. Seating is limited.
 </p>
+<br/>
+<hr/>
+<br/>
 <p>
     This project was created during a semester-long artists residency this fall as part of Cornell’s multidisciplinary <a href="http://mediastudies.as.cornell.edu/">Media Studies Initiative</a>. While on campus we created an hour-long live audio show featuring our own recordings, work from Cornell professors, and content from Cornell’s archives. We also guest lectured in eight courses, gave workshops, and were selected as fellows at the Hans Bethe house.
 </p>
