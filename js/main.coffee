@@ -77,6 +77,14 @@ before_lightbox_close = ->
         Cookies.set(SUBCRIBE_LIGHTBOX_COOKIE, 'closed', {expires: 7})
     # to close: $.featherlight.current().close()
 
+select_nav = ->
+    $links = $('.site-nav .page-link')
+    for link in $links
+        $link = $(link)
+        if $link.attr('href') == window.location.pathname
+            $link.addClass('selected')
+
+
 $ ->
     # wait for the google fonts to load then render the title
     # we want to avoid FOUT
@@ -114,3 +122,6 @@ $ ->
     $(document.links).filter( ->
         this.hostname != window.location.hostname and this.origin != 'mailto://'
     ).attr('target', '_blank')
+
+    # highlight current navigation menu
+    select_nav()
