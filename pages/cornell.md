@@ -16,7 +16,9 @@ exclude_header: true
      What does a university sound like? For one semester, we listened to Cornell University. We listened to dorms and dining halls and frats; to a particle accelerator, conversational Latin, and the stomach of a cow; to dozens of 19th-century kinetic machines, the mechanics of a pipe organ, and the stomp of step dancing; to hockey skates, taiko drums, and fencing sabres; to research on mating spiders, vibrating deserts, dying plants, and outer space; to wire recordings, records, film reels, cassettes, and VHS tapes hidden in archives several floors underground; to water in a gorge, the rustle of leaves, a symphony of insects and all the sounds made in an entire day on campus. It will be a university entirely through your ears instead of your eyes.
 </p>
 <p>
-    Come listen to what we heard on <b>November 20th and 21st at the Schwartz Center for the Performing Arts</b>. Tickets available soon. Seating is limited.
+    Come listen to what we heard on <b>November 20th and 21st at the Schwartz Center for the Performing Arts</b>.<a href="https://www.eventbrite.com/e/cornell-according-to-sound-tickets-76353668879">Tickets available here</a>. Seating is limited. 
+     
+    
 </p>
 <br/>
 <hr/>
