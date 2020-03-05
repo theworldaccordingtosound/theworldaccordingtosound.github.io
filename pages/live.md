@@ -41,7 +41,7 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 
 <p>The show is about an hour long and everyone sits in the dark with eye masks that we provide. We normally perform for around 150 people at a time. The upper limit would be around 300 people. The ideal space is a squarish room with moveable seating. We arrange our eight, free-standing speakers in a square around the audience, and it is optimal to have at least five feet from the speaker to the nearest audience member. The only equipment we’d need from the venue is a PA system to do our live narration.</p>
 
-<p>Universities are paying us $3,000 to guest lecture several classes, put on the show for the student body, and hold a public Q&amp;A afterwards. In some cases we've workshopped students' audio/radio work instead of some of the guest lecturing. We've worked with a bunch of different departments: media studies, journalism, music, documentary/film studies, and student activities boards, which have all chipped in.</p>
+<p>Universities are inviting us to campus to guest lecture  classes, put on the show for the student body, and hold a public Q&amp;A afterwards. In some cases we've workshopped students' audio/radio work instead of some of the guest lecturing. We've worked with a bunch of different departments: media studies, journalism, music, documentary/film studies, and student activities boards, which have all chipped in.</p>
 </div>
 
 <div class='live-description'>
