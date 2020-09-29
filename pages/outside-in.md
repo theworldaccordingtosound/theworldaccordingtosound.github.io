@@ -21,6 +21,10 @@ permalink: /outside-in/
   One night you may hear music made out of air bubbles trapped in Arctic ice, and the next you'll listen to the most radical documentary NPR ever made (spoiler: it was made a very long time ago). We’ll travel to Iceland, the Hagia Sophia, and be whisked back in time to the streets of 1930’s Cairo. We’ll have acousmatic music, experimental narrative documentary, and all kinds of adventures in found sound.
 </p>
 
+<div class='bubble-separator'>
+  <img src="/assets/banner_logo_big.png">
+</div>
+
 <p>
   Some of the contributors include Matmos, the Kronos Quartet, Leah Reid, Tony Schwartz, Bill Fontana, Jacob Kierkegaard, Irv Teibel, and of course us: The World According to Sound. When you get tickets to a show, you’ll be mailed an eye mask along with instructions on how to listen with pleasure.
 </p>
