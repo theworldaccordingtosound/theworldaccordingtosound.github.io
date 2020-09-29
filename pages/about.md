@@ -29,3 +29,11 @@ P.S. To listen, either subscribe on [iTunes](https://itunes.apple.com/us/podcast
     </form>
   </div>
 
+<div>
+  <h3>Projects</h3>
+  <div class="project-list">
+    <div><a href="/cornell">Sonic University</a>: A live, surround sound exploration of all the sounds on a single campus</div>
+    <div><a href="/lighthouse">LightHouse for the Blind:</a> A radio and podcast series on the rich way blind people experience the world</div>
+  </div>
+</div>
+
