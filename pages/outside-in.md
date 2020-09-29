@@ -11,7 +11,7 @@ permalink: /outside-in/
   Join the <a href="#" data-featherlight='#lightbox-content'>mailing list</a> for upcoming ticket information.
 </p>
 <br>
-<div class='list post-player' track='899124649'></div>
+<div class='post-player' track='899124649'></div>
 <br>
 <p>
   At the end of November, The World According to Sound will begin Outside In: a series of weekly, live, communal listening events from the quarantined safety of our own homes. Each week, people from around the world will tune in together for over an hour of immersive, spatialized audio, followed by a Q&A with the people who made it.
@@ -27,6 +27,10 @@ permalink: /outside-in/
 
 <p>
   Some of the contributors include Matmos, the Kronos Quartet, Leah Reid, Tony Schwartz, Bill Fontana, Jacob Kierkegaard, Irv Teibel, and of course us: The World According to Sound. When you get tickets to a show, you’ll be mailed an eye mask along with instructions on how to listen with pleasure.
+</p>
+
+<p>
+  Join the <a href="#" data-featherlight='#lightbox-content'>mailing list</a> for upcoming ticket information.
 </p>
 
 <p>
