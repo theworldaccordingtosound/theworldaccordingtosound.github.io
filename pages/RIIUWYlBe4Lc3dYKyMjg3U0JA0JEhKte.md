@@ -4,7 +4,7 @@ title: Outside In
 permalink: /RIIUWYlBe4Lc3dYKyMjg3U0JA0JEhKte/
 ---
 <div class="home-heading">
-  Outside In: A Weekly Communal Listening Series
+  Outside In: A Communal Listening Series
 </div>
 <br>
 <p>
