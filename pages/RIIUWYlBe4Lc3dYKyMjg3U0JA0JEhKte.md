@@ -63,7 +63,7 @@ permalink: /RIIUWYlBe4Lc3dYKyMjg3U0JA0JEhKte/
   Potentially a quartet known for their sense of chronology
 </p>
 <br>
-<p>*These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
+<p><b>*</b> These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
 
 <div class='bubble-separator'>
   <img src="/assets/banner_logo_big.png">
