@@ -11,7 +11,7 @@ permalink: /outside-in/
   Every Thursday evening starting in December, we’re going to live stream spatialized audio straight to the headphones of people listening together, all around the world. Every attendee will be mailed an eye mask and listening instructions for how to tune into a program made by radio producers, musicians, and sound artists. After each show, we’ll have a live discussion with the people who made the audio.
 </p>
 <p>
-  Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all eight events.
+  All shows are at <b>6 PM Pacific/9 PM Eastern.</b> Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all eight events.
 </p>
 <br>
 <p>Here’s a taste of the experience. Close your eyes and listen with headphones!</p>
