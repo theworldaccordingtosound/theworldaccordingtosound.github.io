@@ -21,7 +21,7 @@ permalink: /RIIUWYlBe4Lc3dYKyMjg3U0JA0JEhKte/
 <br>
 <p>
   <b>December 3rd 2020 — Outside In</b><br>
-  The show that started this whole listening series idea: it’s a surround sound escape from the pandemic. We’ll travel from the banality inside our homes, back to a time before the coronavirus, to as far away from earth as possible. Featuring walruses, pulsars, funnels, chimes, hair dryers, and a deconstructed organ, along with Chris’s wayward belt buckle. <a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-tick'>Get tickets</a>
+  The show that started this whole listening series idea: it’s a surround sound escape from the pandemic. We’ll travel from the banality inside our homes, back to a time before the coronavirus, to as far away from earth as possible. Featuring walruses, pulsars, funnels, chimes, hair dryers, and a deconstructed organ, along with Chris’s wayward belt buckle. <a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-ticket'>Get tickets</a>
 </p>
 <p>
   <b>December 10th 2020 — Transposition*</b><br>
