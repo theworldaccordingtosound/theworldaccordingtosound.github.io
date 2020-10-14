@@ -17,7 +17,7 @@ permalink: /RIIUWYlBe4Lc3dYKyMjg3U0JA0JEhKte/
 <p>Here’s a taste of the experience. Close your eyes and listen with headphones!</p>
 <div class='post-player' track='899124649'></div>
 <br>
-<h3>The Events</h3>
+<h3 class='centered'>The Events</h3>
 <br>
 <p>
   <b>December 3, 2020 — Outside In</b><br>
