@@ -66,7 +66,8 @@ permalink: /outside-in/
 <p>
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
   These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
-
+</p>
+<p>
 <br>
 <p><b>*</b> These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
 
