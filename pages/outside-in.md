@@ -60,7 +60,7 @@ permalink: /outside-in/
 </p>
 <p>
   <b>February 4, 2021 — Kronos Quartet</b><br>
-  From a single chord of Beethoven came the Kronos Quartet, a group that’s spanned almost 50 years, performed with hundreds of musicians, and commissioned more than a thousand new pieces. Kronos has recorded music for films like Requiem for a Dream, La Grande Bellezza and Dracula, collaborated with artists from all over the globe, and most recently celebrated the work of Pete Seeger. This is a night with Kronos—the music, sonic experiments, and sounds that inspire its work, beginning with the chord that started it all.
+  From a single chord of Beethoven came the Kronos Quartet, a group that’s spanned almost 50 years, performed with hundreds of musicians, and commissioned more than a thousand new pieces. Kronos has recorded music for films like <i>Requiem for a Dream</i>, <i>La Grande Bellezza</i> and <i>Dracula</i>, collaborated with artists from all over the globe, and most recently celebrated the work of Pete Seeger. This is a night with Kronos—the music, sonic experiments, and sounds that inspire its work, beginning with the chord that started it all.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-kronos-quartet-02-14'>Get tickets</a></b>
 </p>
 <p>
