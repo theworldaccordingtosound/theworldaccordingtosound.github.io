@@ -63,9 +63,9 @@ permalink: /outside-in/
   From a single chord of Beethoven came the Kronos Quartet, a group that’s spanned almost 50 years, performed with hundreds of musicians, and commissioned more than a thousand new pieces. Kronos has recorded music for films like Requiem for a Dream, La Grande Bellezza and Dracula, collaborated with artists from all over the globe, and most recently celebrated the work of Pete Seeger. This is a night with Kronos—the music, sonic experiments, and sounds that inspire its work, beginning with the chord that started it all.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-kronos-quartet-02-14'>Get tickets</a></b>
 </p>
+<p>
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
   These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
-</p>
 
 <br>
 <p><b>*</b> These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
