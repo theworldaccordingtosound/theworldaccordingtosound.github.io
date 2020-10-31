@@ -49,12 +49,12 @@ permalink: /outside-in/
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-bodies-01-14'>Get tickets</a></b>
 </p>
 <p>
-  <b>January 22, 2021 — Matmos</b><br>
+  <b>January 21, 2021 — Matmos</b><br>
   The only pure music show in the series, brought to us by two electronic musicians who make melodies from hospital apparatus and washing machines and bovine uteri. An original work made for The World According to Sound.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-matmos-01-21'>Get tickets</a></b>
 </p>
 <p>
-  <b>January 29, 2021 — Solitude*</b><br>
+  <b>January 28, 2021 — Solitude*</b><br>
   Alienation, loneliness, solitude––different sides of a common coin. We’ll hear how lonely a goalkeeper can be, and listen to a man in a car in a field of cows in a 1940s radio play. There will be a contrapuntal train trip up into Canada’s frozen north, along with a journey deep inside the fjords and glaciers of the Scandanavian Arctic Circle.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-solitude-01-28'>Get tickets</a></b>
 </p>
