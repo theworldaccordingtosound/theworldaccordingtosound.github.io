@@ -64,7 +64,6 @@ permalink: /outside-in/
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/general-admission-kronos-quartet-02-14'>Get tickets</a></b>
 </p>
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
-<p> 
   These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
 </p>
 
