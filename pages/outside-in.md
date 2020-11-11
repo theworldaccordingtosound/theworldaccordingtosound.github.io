@@ -25,7 +25,7 @@ permalink: /outside-in/
 </p>
 <p>
   <b>December 10, 2020 — Transposition*</b><br>
-   Just a fancy way of saying that we’re going places. We’ll visit Cairo in the 30s, Berlin in the 40s, New York City in the 50s, an iceberg in Antarctica, Elizabethan England, and forest elephants in the Dzanga Bai.
+   Just a fancy way of saying that we’re going places. We’ll visit Cairo in the 20s, Berlin in the 30s, New York City in the 50s, Vietnam in the 70s, an iceberg in Antarctica, Elizabethan England, and forest elephants in the Dzanga Bai.
    <b><a href='https://the-world-according-to-sound.myshopify.com/products/ticket-to-transposition-12-10'>Get tickets</a></b>
 </p>
 <p>
@@ -35,7 +35,7 @@ permalink: /outside-in/
 </p>
 <p>
   <b>January 1, 2021 — Time*</b><br>
-  What is time these days anyway? Gyorg Lygeti and John Cage skip rope with Tony Schwartz’s niece, and it turns out the big bang lasted only a little longer than the first two sentences of a radio broadcast FDR made in 1941, but it contains over a hundred meals eaten by Eliot Smoke in a year. This evening celebrates it all, along with the slowest song played as fast as possible, abstracted music boxes, and more metronomes than you can shake a stick at. Kommt Zeit kommt Rat: Only time will tell.
+  What is time these days anyway? György Ligeti and John Cage skip rope with Tony Schwartz’s niece, and it turns out the big bang lasted only a little longer than the first two sentences of a radio broadcast FDR made in 1941, but it contains over a hundred meals eaten by Eliot Smoke in a year. This evening celebrates it all, along with the slowest song played as fast as possible, abstracted music boxes, and more metronomes than you can shake a stick at. Kommt Zeit kommt Rat: Only time will tell.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/admission-for-time-01-01'>Get tickets</a></b>
 </p>
 <p>
