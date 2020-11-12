@@ -11,7 +11,7 @@ permalink: /outside-in/
   Every Thursday evening starting in December, we’re going to live stream spatialized audio straight to the headphones of people listening together, all around the world. Every attendee will be mailed an eye mask and listening instructions for how to tune into a program made by radio producers, musicians, and sound artists. After each show, we’ll have a live discussion with the people who made the audio.
 </p>
 <p>
-  All shows are at <b>6 PM Pacific/9 PM Eastern.</b> Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events.
+  All shows are live at <b>6 PM Pacific/9 PM Eastern.</b> The show will then be available to listeners for 24 hours. Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events.
 </p>
 <br>
 <p>Here’s a taste of the experience. Close your eyes and listen with headphones!</p>
@@ -29,14 +29,14 @@ permalink: /outside-in/
    <b><a href='https://the-world-according-to-sound.myshopify.com/products/ticket-to-transposition-12-10'>Get tickets</a></b>
 </p>
 <p>
-  <b>December 17, 2020 — Bill Fontana</b><br>
-  An evening with an American pioneer in sound-sculptured sensoria. We’ll listen through the expanse of Bill’s career, from the sonic landscape of Australia during a solar eclipse, to the foghorns of San Francisco Bay and the Acqua Vergine aqueducts underneath Rome. Through Bill’s career we get an experiential education in sound recording, projection, and listening.
-  <b><a href='https://the-world-according-to-sound.myshopify.com/products/ticket-to-fontana-retrospective-12-17'>Get tickets</a></b>
-</p>
-<p>
-  <b>January 1, 2021 — Time*</b><br>
+  <b>December 17, 2020 — Time*</b><br>
   What is time these days anyway? György Ligeti and John Cage skip rope with Tony Schwartz’s niece, and it turns out the big bang lasted only a little longer than the first two sentences of a radio broadcast FDR made in 1941, but it contains over a hundred meals eaten by Eliot Smoke in a year. This evening celebrates it all, along with the slowest song played as fast as possible, abstracted music boxes, and more metronomes than you can shake a stick at. Kommt Zeit kommt Rat: Only time will tell.
   <b><a href='https://the-world-according-to-sound.myshopify.com/products/admission-for-time-01-01'>Get tickets</a></b>
+</p>
+<p>
+  <b>January 1, 2021 — Bill Fontana</b><br>
+  An evening with an American pioneer in sound-sculptured sensoria. We’ll listen through the expanse of Bill’s career, from the sonic landscape of Australia during a solar eclipse, to the foghorns of San Francisco Bay and the Acqua Vergine aqueducts underneath Rome. Through Bill’s career we get an experiential education in sound recording, projection, and listening.
+  <b><a href='https://the-world-according-to-sound.myshopify.com/products/ticket-to-fontana-retrospective-12-17'>Get tickets</a></b>
 </p>
 <p>
   <b>January 7, 2021 — Radical Radio Documentary</b><br>
