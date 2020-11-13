@@ -11,9 +11,8 @@ permalink: /outside-in/
   Every Thursday evening starting in December, we’re going to live stream spatialized audio straight to the headphones of people listening together, all around the world. Every attendee will be mailed an eye mask and listening instructions for how to tune into a program made by radio producers, musicians, and sound artists. After each show, we’ll have a live discussion with the people who made the audio.
 </p>
 <p>
-  All shows are live at <b>6 PM Pacific/9 PM Eastern.</b> The show will then be available to listeners for 24 hours. Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events.
+  All shows are live at <b>6 PM Pacific/9 PM Eastern.</b> The show will then be available to listeners for 24 hours. Tickets must be ordered one week before the show to receive an eyemask and program. Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events.
 </p>
-<br>
 <p>Here’s a taste of the experience. Close your eyes and listen with headphones!</p>
 <div class='post-player' track='899124649'></div>
 <br>
@@ -78,6 +77,8 @@ permalink: /outside-in/
 <p>
  The cost of an individual show is $25. That covers the production and mailing of the eye mask and listening instructions. The remaining funds are distributed among all the contributors in the show.
 </p>
+
+Local partners: Meyer Sound, SFMoma, Gray Area, Minnesota Street Project, The LightHouse for the Blind and Visually Impaired, SFJazz, KALW, KQED.
 
 <p>
   Join the <a href="#" data-featherlight='#lightbox-content'>mailing list</a> to receive event updates.
