@@ -66,13 +66,19 @@ permalink: /outside-in/
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
   These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
 </p>
-<p>
 <br>
-<p><b>*</b> These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
+<p>
+  Everyone who orders a ticket will be mailed an eye mask and listening instructions. (A ticket might make a nice gift for someone you can't hang out with in person these holidays)
+</p>
 
-<div class='bubble-separator'>
-  <img src="/assets/banner_logo_big.png">
+<div class='outsidein-image-container'>
+  <img src="/assets/mask.jpg">
+  <img src="/assets/paper_program.jpg">
 </div>
+
+<br>
+
+<p><b>*</b> These are shows not by a specific person or on one particular work, but a collection of diverse audio pieces orbiting one central theme.</p>
 
 <p>
  The cost of an individual show is $25. That covers the production and mailing of the eye mask and listening instructions. The remaining funds are distributed among all the contributors in the show.
