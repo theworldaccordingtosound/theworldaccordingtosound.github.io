@@ -68,7 +68,7 @@ permalink: /outside-in/
 </p>
 <br>
 <p>
-  Everyone who orders a ticket will be mailed an eye mask and listening instructions. (A ticket might make a nice gift for someone you can't hang out with in person these holidays)
+  Everyone who orders a ticket will be mailed an eye mask and listening instructions. (A ticket might make a nice gift for someone you can't hang out with in person these holidays). Finally, if you're a student or going through financial hard times right now, email us at thewatsound@gmail.com and we'll figure out a way for you to make it to the shows! Everyone who wants to listen gets to, there's no question here.
 </p>
 
 <div class='outsidein-image-container'>
