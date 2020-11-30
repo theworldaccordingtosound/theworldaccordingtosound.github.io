@@ -64,7 +64,7 @@ permalink: /outside-in/
 </p>
 <p>
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
-  These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
+  These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! You can still buy a season pass after the series begins. Just send us <a class='email_link' href="mailto:thewatsound@gmail.com" target="_top">an email</a> and we will make the past shows available for you. <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
 </p>
 <br>
 <p>
