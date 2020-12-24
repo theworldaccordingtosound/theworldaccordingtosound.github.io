@@ -90,3 +90,7 @@ Local partners: Meyer Sound, SFMoma, Gray Area, Minnesota Street Project, The Li
   Join the <a href="#" data-featherlight='#lightbox-content'>mailing list</a> to receive event updates.
 </p>
 
+<p>
+  <a href='/outside-in-works'>See the full list of works for each show</a>
+</p>
+
