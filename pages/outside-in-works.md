@@ -39,7 +39,7 @@ permalink: /outside-in-works/
 <div>“Space” -- The World According to Sound</div>
 
 <br>
-<p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Transposition,” streamed on 12/10/20.<p>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Transposition,” streamed on 12/10/20.</b><p>
 
 <div>“Transposition Organ Intro” -- The World According to Sound</div>
 <div>“Definitions of Transposition”  -- The World According to Sound</div>
@@ -63,7 +63,7 @@ permalink: /outside-in-works/
 <div>“Energy Field” -- Jana Winderen (excerpt)</div>
 
 <br>
-<p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Time,” streamed on 12/17/20.</p>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Time,” streamed on 12/17/20.</b></p>
 
 <div>“Starting the Show: Two Perspectives in Sound” -- The World According to Sound</div>
 <div>“ASLSP” (2012 Chord) -- John Cage</div>
