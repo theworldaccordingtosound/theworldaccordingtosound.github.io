@@ -4,7 +4,7 @@ title: Outside In Works
 permalink: /outside-in-works/
 ---
 
-<p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Outside In,” streamed on 12/3/20.</p>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Outside In,” streamed on 12/3/20.</b></p>
 
 <div>“Outside In Organ Intro” -- The World According to Sound</div>
 <div>“At Home” -- The World According to Sound</div>
