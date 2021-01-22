@@ -83,3 +83,72 @@ permalink: /outside-in-works/
 <div>“Cup of Tea” -- The World According to Sound</div>
 <div>“ASLSP” (2020 Chord) -- John Cage</div>
 <div>“Ol-Olool-O” -- Chris Watson</div>
+
+<br>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Bill Fontana Retrospective,” streamed on 01/01/21. All works made by Bill Fontana, edited by The World According to Sound.</b></p>
+
+<div>Composition for Preferred Objects, 1970</div>
+<div>Australian Eclipse, 1976</div>
+<div>Kirribilli Wharf, Sydney, 1976</div>
+<div>Sound Sculpture with Resonators, Melbourne, 1978-01</div>
+<div>Soundscapes (montage), 1983</div>
+<div>Desert Soundings, Abu Dhabie 2014</div>
+<div>Acoustical Visions of the Golden Gate Bridge, 2012</div>
+<div>Landscape Sculpture with Fog Horns, 1981</div>
+<div>Sound Sculpture with a Sequence of Level Crossings, 1982</div>
+<div>Acoustical Visions of Venice, 1999</div>
+<div>Distant Trains Berlin, 1984</div>
+<div>Sonic Mappings Aqua Viregene Tunnel, Rome, 2014</div>
+<div>Pigeon Soundings Cologne, 2007</div>
+<div>Harmonic Time Travel, Beethoven Foundation, 2019</div>
+<div>Speeds of Time London, 2004</div>
+<div>Acoustic Time Travel, CERN, 2013</div>
+<div>Resonating Echoes in the Basilica Cistern, Istanbul, 2020</div>
+<div>Primal Energies, 2020</div>
+
+<br>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Radical Radio Documentary,” streamed on 01/07/21.</b></p>
+
+<div>“Father Cares: The Last of Jonestown” -- James Reston Jr., Noah Adams, Deborah Amos</div>
+
+<br>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Bodies,” streamed on 01/14/21.</b></p>
+
+<div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
+<div>“Sounds of Medicine,” Folkway Records</div>
+<div>“Brain Artery,” The World According to Sound</div>
+<div>“Grunting,” The World According to Sound</div>
+<div>“Healthy and Unhealthy Knees,” Omer Inan</div>
+<div>“Joints”</div>
+<div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
+<div>“Man Bird,” Charles Kellogg, The World According to Sound</div>
+<div>“Eating Misophonia,”, The World According to Sound et al.</div>
+<div>“Clapping Music,” Steven Reich</div>
+<div>“Le Petomane,” Monsieur Lefires</div>
+<div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
+<div>“Tinnitus,” The World According to Sound & The British Tinnitus Association</div>
+<div>“Ants,” Stephen Frost
+<div>“Jupiter,” NASA & The World According to Sound</div>
+<div>“Do Not Reject Me in My Old Age,” The Orthodox Singers</div>
+<div>“Crucifixus,” Alessandro Moreschi</div>
+<div>“Sequenza III,” Luciano Berio, singer Cathy Berberian</div>
+<div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
+<div>“Coal Miner,” Howard Berkes & The World According to Sound</div>
+<div>“Opus Mors,” Jacob Kirkegaard & The World According to Sound</div>
+
+<br>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Matmos,” streamed on 01/21/21. All pieces by Matmos, except where noted.
+</b></p>
+
+<div>You (Breakdown)
+<div>Balloon and stick and plastic sounds</div>
+<div>Acapella -- The Soft Pink Noise</div>
+<div>Washing Machine Sounds -- Matmos & The World According to Sound</div>
+<div>Ultimate Care II</div>
+<div>Breaking Bread</div>
+<div>The Singing Tube</div>
+<div>Liposuction Breakdown</div>
+<div>The Marriage of True Minds</div>
+<div>The Consuming Flame (breakdown)</div>
+<div>Unreleased “Matmos Cast”</div>
+
