@@ -119,10 +119,10 @@ permalink: /outside-in-works/
 <div>“Brain Artery,” The World According to Sound</div>
 <div>“Grunting,” The World According to Sound</div>
 <div>“Healthy and Unhealthy Knees,” Omer Inan</div>
-<div>“Joints”</div>
+<div>“Joints,” Anon</div>
 <div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
 <div>“Man Bird,” Charles Kellogg, The World According to Sound</div>
-<div>“Eating Misophonia,”, The World According to Sound et al.</div>
+<div>“Eating Misophonia,” The World According to Sound et al.</div>
 <div>“Clapping Music,” Steven Reich</div>
 <div>“Le Petomane,” Monsieur Lefires</div>
 <div>“American Speech Sounds and Rhythm,” Hazel Brown, Folkway Records</div>
