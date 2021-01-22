@@ -90,7 +90,7 @@ permalink: /outside-in-works/
 <div>Composition for Preferred Objects, 1970</div>
 <div>Australian Eclipse, 1976</div>
 <div>Kirribilli Wharf, Sydney, 1976</div>
-<div>Sound Sculpture with Resonators, Melbourne, 1978-01</div>
+<div>Sound Sculpture with Resonators, Melbourne, 1978</div>
 <div>Soundscapes (montage), 1983</div>
 <div>Desert Soundings, Abu Dhabie 2014</div>
 <div>Acoustical Visions of the Golden Gate Bridge, 2012</div>
