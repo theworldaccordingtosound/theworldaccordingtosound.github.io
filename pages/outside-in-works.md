@@ -179,7 +179,7 @@ permalink: /outside-in-works/
 <div>“Echoes of Primordial Time” -- Terry Riley</div>
 <div>“Weddell Seals” -- Douglas Quin</div>
 <div>“Song from the Forest,” -- Bayaka Pygmies</div>
-<div>“Bells” Early Music -- Krono Quartet</div>
+<div>“Bells” Early Music -- Kronos Quartet</div>
 <div>“Hiroshima Peace Bell” -- Steven Feld</div>
 <div>“Nunc Dimittis” -- Rachmaninov</div>
 <div>“E-flat in the World, I” -- Kronos + The World According to Sound</div>
@@ -201,3 +201,5 @@ permalink: /outside-in-works/
 <div>“E-Flat Chord Montage” -- Kronos + The World According to Sound</div>
 <div>“No. 12 in E-Flat Major” -- Beethoven, Budapest Quartet</div>
 <div>“One Earth, One People, One Love” -- Terry Riley</div>
+
+<br>
