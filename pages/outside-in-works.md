@@ -173,7 +173,7 @@ permalink: /outside-in-works/
 <div>“Deep Listening” -- Pauline Oliveros, Stuart Dempster, Panaoitis</div>
 
 <br>
-<b><p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Kronos,” streamed on 02/04/21.</b></p>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Kronos,” streamed on 02/04/21.</b></p>
 
 <div>“E-flat” -- Kronos</div>
 <div>“Echoes of Primordial Time” -- Terry Riley</div>
