@@ -175,7 +175,7 @@ permalink: /outside-in-works/
 <br>
 <b><p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Kronos,” streamed on 02/04/21.</b></p>
 
-<div>“E-flat” -- Kronos
+<div>“E-flat” -- Kronos</div>
 <div>“Echoes of Primordial Time” -- Terry Riley</div>
 <div>“Weddell Seals” -- Douglas Quin</div>
 <div>“Song from the Forest,” -- Bayaka Pygmies</div>
