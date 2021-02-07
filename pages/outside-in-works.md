@@ -152,3 +152,52 @@ permalink: /outside-in-works/
 <div>The Consuming Flame (breakdown)</div>
 <div>Unreleased “Matmos Cast”</div>
 
+<br>
+<p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Solitude,” streamed on 01/28/21.</b></p>
+
+<div>“Death Valley’s Doorstep” -- Chris Hoff</div>
+<div>“Idea of North, I” -- Glenn Gould</div>
+<div>“Fire” -- Tim Shaw and Martina Lussi</div>
+<div>“Number Stations” -- The World According to Sound</div>
+<div>“Cave Organ” -- Pepe Deluxe</div>
+<div>“Idea of North, II” -- Glenn Gould</div>
+<div>“Field Recordings” -- Lucy Dearlove, Mariano Pagella, Vladimir Kryuchev, Kristina Loring, Jeff Emtman, Marco Rip, Geoff Mitchell, Eleanor McDowall</div>
+<div>“Antiphonal Duets + O’O Bird” -- Dr. Nigel Mann, The World According to Sound</div>
+<div>“Extinct Frogs” -- Lab of Ornithology + The World According to Sound</div>
+<div>“52 Hertz Whale”</div> 
+<div>“Idea of North, III” -- Glenn Gould</div>
+<div>“Hitchhiker (excerpt)” -- Orson Welles</div>
+<div>“Desde Su Voz” -- Juan Blanco
+<div>“Idea of North, IV” -- Glenn Gould</div>
+<div>“Iberian Wolf” -- Melissa Pons</div>
+<div>“Deep Listening” -- Pauline Oliveros, Stuart Dempster, Panaoitis</div>
+
+<br>
+<b><p>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Kronos,” streamed on 02/04/21.</b></p>
+
+<div>“E-flat” -- Kronos
+<div>“Echoes of Primordial Time” -- Terry Riley</div>
+<div>“Weddell Seals” -- Douglas Quin</div>
+<div>“Song from the Forest,” -- Bayaka Pygmies</div>
+<div>“Bells” Early Music -- Krono Quartet</div>
+<div>“Hiroshima Peace Bell” -- Steven Feld</div>
+<div>“Nunc Dimittis” -- Rachmaninov</div>
+<div>“E-flat in the World, I” -- Kronos + The World According to Sound</div>
+<div>“Black Angels, Movement I” -- George Crumb</div>
+<div>“God Bless America” -- Kronos Quartet</div>
+<div>“Rabbit-Proof Fence” -- Jon Rose</div>
+<div>KRONOS QUARTET MEDLEY: “Last Kind Words”, “America Before the War”, “Rishte Bante Hain”, “Turcaesca”, “Black Angels” (George Crumb); “Flugufrelsarinn”, “Howl”, “Loving”, “Dark Was the Night”</div>
+<div>“Contrapunctus 2” -- Bach + Kronos</div>
+<div>“Hiccup Girl” -- Negativland</div>
+<div>“1960s montage” -- David Harrington</div>
+<div>“House of the Rising Sun” -- Georgia Turner</div>
+<div>“House of the Rising Sun montage” -- Various + The World According to Sound</div>
+<div>“E-flat in the World, II” -- Kronos + The World According to Sound</div>
+<div>“Star Spangled Banner” -- Jimi Hendrix + Kronos Quartet</div>
+<div>“Mi par d'udir ancora” -- Beniamino Gigli; “Groung” -- Zabelle Panosian</div>
+<div>“Lullaby” -- Kronos Quartet; “Jahle”</div>
+<div>“Pari Intervallo” -- Arvo Pärt;  “Sleigh Dogs” -- Jeremy Roht</div>
+<div>“God Shall Wipe All Tears Away” -- Mahalia Jackson, Hawa Kassé Mady Diabaté</div>
+<div>“E-Flat Chord Montage” -- Kronos + The World According to Sound</div>
+<div>“No. 12 in E-Flat Major” -- Beethoven, Budapest Quartet</div>
+<div>“One Earth, One People, One Love” -- Terry Riley</div>
