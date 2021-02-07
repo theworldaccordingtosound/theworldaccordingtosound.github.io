@@ -140,7 +140,7 @@ permalink: /outside-in-works/
 <p><b>This is a list of all the pieces of audio, in order, that appeared in the World According to Sound show “Matmos,” streamed on 01/21/21. All pieces by Matmos, except where noted.
 </b></p>
 
-<div>You (Breakdown)
+<div>You (Breakdown)</div>
 <div>Balloon and stick and plastic sounds</div>
 <div>Acapella -- The Soft Pink Noise</div>
 <div>Washing Machine Sounds -- Matmos & The World According to Sound</div>
