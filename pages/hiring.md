@@ -31,7 +31,7 @@ The World According to Sound has a body of sound work both in journalism and in 
 <i>Secondary Objectives</i>
 <ul>
   <li>-Find and apply for grants</li>
-<li>Manage existing partnerships with organizations like Meyer Sound, Sennheiser, and The Lighthouse for the Blind</li>
+<li>-Manage existing partnerships with organizations like Meyer Sound, Sennheiser, and The Lighthouse for the Blind</li>
 <li>-Find podcasting/radio/live audio consulting opportunities</li>
 <li>-Set up collaborations with other radio producers, musicians, or sound artists</li>
 <li>-Facilitate academic publications on radio, journalism, and sound studies</li>
