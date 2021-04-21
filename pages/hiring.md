@@ -10,7 +10,7 @@ permalink: /hiring/
 <a href="https://www.theworldaccordingtosound.org">The World According to Sound</a> is looking to form new partnerships with organizations interested in making, distributing, and promoting critical and formally innovative audio.
 
 <b>Who We Are</b><br>
-We (Chris Hoff and Sam Harnett) are a two-person audio team that collaborates with media outlets, arts organizations, academic institutions, and centers for the blind to make radio and live sound events. We produce a podcast, an 8-channel live sound event, a streaming listening series, and critical radio documentaries. The mission of The World According to Sound is twofold: to create experiential, immersive, communal sound events and to produce audio journalism that critiques neoliberalism and challenges the formal conventions of public radio.
+We (Chris Hoff and Sam Harnett) are a two-person audio team that collaborates with media outlets, arts organizations, academic institutions, and centers for the blind to make radio and live sound events. We produce a podcast, an 8-channel live sound event, a streaming listening series, and critical radio documentaries. The mission of The World According to Sound is to create experiential, immersive, communal sound events and audio journalism that challenges the formal conventions of public radio and the attention-economy of late stage capitalism.
 
 In the last five years, we’ve performed at more than 75 venues, received grants from California Humanities and the Zellerbach Foundation, guest lectured at 20 institutions including a semester-long residency at Cornell, formed partnerships with Meyer Sound and the LightHouse for the Blind, and worked with artists like the Kronos Quartet and Matmos. For a taste of the listening series, check out the first show: <a href="https://soundcloud.com/worldaccordingtosound/wats-pandemic-show-outside-in-1232020/s-Nb7sqockuge">Outside In</a>; and for an example of our journalistic work, you can take a listen to an excerpt of the <a href="https://www.kqed.org/howwegothere">How We Got Here</a> radio series.
 
@@ -24,7 +24,7 @@ The World According to Sound has a body of sound work both in journalism and in 
 <li>-Organize guest lectures and residencies at academic institutions</li>
 <li>-Book venues and coordinate tours for our live show</li>
 <li>-Locate audio festivals and conferences where we could perform/present</li>
-<li>-Establish partnerships with progressive organizations and critical media outlets to produce and distribute documentaries about capitalism and inequality</li>
+<li>-Establish partnerships with progressive organizations and media outlets to produce and distribute formally innovative and critical audio</li>
 <li>-Coordinate with organizations for the blind to create and distribute content</li>
   </ul>
 
