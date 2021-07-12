@@ -57,6 +57,6 @@ The World According to Sound has a body of sound work both in journalism and in 
 <li>-Is willing to take own initiative to search for opportunities and cold email/call prospective partners</li>
   </ul>
 
-Please send us your resume and tell us what you hope to get out of this work (besides all the dollars)! thewatsound@gmail.com
+Please send us your resume and tell us what you hope to get out of this work (besides all the dollars)! info@theworldaccordingtosound.org
 
 -Chris Hoff & Sam Harnett

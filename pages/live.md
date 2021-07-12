@@ -28,7 +28,7 @@ Sam Harnett is a reporter for KQED and a frequent contributor to Marketplace, an
 </div>
 <div class='live-description'>
 <a name="book_the_world_according_to_sound"></a><h3>Book Us</h3>
-<p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:thewatsound@gmail.com">thewatsound@gmail.com</a></p>
+<p>We’re playing and guest lecturing at universities, theaters, and art spaces. Get in touch to book us at your space: <a href="mailto:info@theworldaccordingtosound.org">info@theworldaccordingtosound.org</a></p>
 
 <p><img src="http://www.theworldaccordingtosound.org/assets/images/Claire%20Brothers%20Setup%20SMALL.JPG" width="640" height="480" class="live-image"></p>
 

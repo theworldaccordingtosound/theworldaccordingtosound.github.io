@@ -11,7 +11,7 @@ permalink: /outside-in/
   Every Thursday evening starting in December, we’re going to live stream spatialized audio straight to the headphones of people listening together, all around the world. Every attendee will be mailed an eye mask and listening instructions for how to tune into a program made by radio producers, musicians, and sound artists. After each show, we’ll have a live discussion with the people who made the audio.
 </p>
 <p>
-  All shows are live at <b>6 PM Pacific/9 PM Eastern.</b> We will also mail you an eye mask and program guide via USPS as soon as you make an order. Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events. You can still buy a season pass after the series begins. Just send us <a class='email_link' href="mailto:thewatsound@gmail.com" target="_top">an email</a> and we will make the past shows available for you. For those who live abroad or have bad internet and cannot livestream the show, we can provide alternative listening options.
+  All shows are live at <b>6 PM Pacific/9 PM Eastern.</b> We will also mail you an eye mask and program guide via USPS as soon as you make an order. Get tickets for individual shows below, or get a highly discounted <a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>season pass</a> for all nine events. You can still buy a season pass after the series begins. Just send us <a class='email_link' href="mailto:info@theworldaccordingtosound.org" target="_top">an email</a> and we will make the past shows available for you. For those who live abroad or have bad internet and cannot livestream the show, we can provide alternative listening options.
 </p>
 <p>Here’s a taste of the experience. Close your eyes and listen with headphones!</p>
 <div class='post-player' track='899124649'></div>
@@ -64,11 +64,11 @@ permalink: /outside-in/
 </p>
 <p>
   <b>Or...Join Us Every Thursday With a Season Pass</b><br>
-  These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! You can still buy a season pass after the series begins. Just send us <a class='email_link' href="mailto:thewatsound@gmail.com" target="_top">an email</a> and we will make the past shows available for you. <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
+  These 9 shows are a journey through sound, and we would love to have you along for the whole ride. With a season pass you can come listen with us every Thursday from December until the beginning of February! You can still buy a season pass after the series begins. Just send us <a class='email_link' href="mailto:info@theworldaccordingtosound.org" target="_top">an email</a> and we will make the past shows available for you. <b><a href='https://the-world-according-to-sound.myshopify.com/products/season-pass'>Get a Season Pass</a></b>.
 </p>
 <br>
 <p>
-  Everyone who orders a ticket will be mailed an eye mask and listening instructions. You will receive an email the week of the show with a link. If you have not received one by the day of the show, email us. Finally, if you're a student or going through financial hard times right now, email us at <a class='email_link' href="mailto:thewatsound@gmail.com" target="_top">thewatsound@gmail.com</a> and we'll figure out a way for you to make it to the shows! Everyone who wants to listen gets to, there's no question here.
+  Everyone who orders a ticket will be mailed an eye mask and listening instructions. You will receive an email the week of the show with a link. If you have not received one by the day of the show, email us. Finally, if you're a student or going through financial hard times right now, email us at <a class='email_link' href="mailto:info@theworldaccordingtosound.org target="_top">info@theworldaccordingtosound.org</a> and we'll figure out a way for you to make it to the shows! Everyone who wants to listen gets to, there's no question here.
 </p>
 
 <div class='outsidein-image-container'>
